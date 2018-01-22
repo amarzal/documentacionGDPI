@@ -30,7 +30,7 @@ obras impresas o susceptibles de serlo se ajustan a la legalidad. Al mismo
 tiempo, recopila información para determinar criterios de reparto justo de la
 remuneración equitativa a la que da derecho la ley.
 
-La información recogida sobr las obras publicadas es auditable por las
+La información recogida sobre las obras publicadas es auditable por las
 entidades de gestión, es decir, estas pueden verificar su corrección. Esto
 implica que las entidades de gestión accedan puntualmente al contenido de los
 ficheros junto a sus datos descriptivos (salvo los documentos administrativos
@@ -177,10 +177,10 @@ Durante el acto de subida del documento no es necesario cumplimentar ningún
 dato relativo a la gestión de derechos de propiedad intelectual.
 
 El fichero, que pasa a estar inmediatamente disponible para los estudiantes (a
-menos que se oculte manualmente) se integra en una lista de ficheros de los que
-está pendiente la gestión de derechos. Si, transcurrido un plazo, no se ha
-efectuado la tramitación pertinente, el documento se ocultará a los estudiantes
-automáticamente.
+menos que se oculte manualmente la actividad) se integra en una lista de
+ficheros de los que está pendiente la gestión de derechos. Si, transcurrido un
+plazo, no se ha efectuado la tramitación pertinente, la actividad que contiene
+el documento se ocultará a los estudiantes automáticamente.
 
 Es recomendable, por tanto, que *tan pronto se publique un documento se proceda
 a tramitar la correspondiente gestión de derechos*.
@@ -197,6 +197,9 @@ principal como este:
 
 ![Aviso de que hay ficheros para los que no se ha tramitado la gestión de
 derechos de propiedad intelectual.](./aviso.png)
+
+Cabe recordar que solo los ficheros que pueden contener obras impresas o
+susceptibles de serlo han de someterse a este proceso de gestión de derechos.
 
 Pinchando en el botón "Iniciar revisión" se accede a la página principal del
 módulo GDPI. Desde ella podemos iniciar el proceso de gestión de cada documento
@@ -216,7 +219,7 @@ mismo.
 
 ### Listado de documentos
 
-EL listado presenta tres columnas
+El listado presenta tres columnas
 informativas:
 
 - **Fichero**: Nombre del fichero. Pinchando en él se accede al documento para su descarga.
@@ -226,7 +229,7 @@ informativas:
 Acompaña a cada documento, además, la posibilidad de efectuar dos acciones:
 
 - **Tramitar**: Dirige al formulario de gestión de derechos del documento.
-- **Consulta**: Dirige una solicitud de asesoramiento a personal especialista en gestión de derecho s  de propiedad intelectual para resolver dudas relativas al fichero.
+- **Consulta**: Dirige una solicitud de asesoramiento a personal especialista en gestión de derechos  de propiedad intelectual para resolver dudas relativas al fichero.
 
 ### Filtro de documentos
 
@@ -256,10 +259,10 @@ Al pulsar en el botón "Consulta" aparece un formulario como este:
 ![Formulario para la solicitud de asesoramiento a un especialista sobre un documento.](./consulta.png)
 
 En el cajetín de texto podemos expresar la duda. La consulta se dirigirá por
-correo electrónico a un especialista en gestión de derechos intelectuales que
-tratará de resolverla en el más breve plazo posible. La respuesta se recibirá
-por correo electrónico, por lo que el módulo GDPI no hace un seguimiento de
-este proceso.
+correo electrónico a un especialista en gestión de derechos de propiedad
+intelectual que tratará de resolverla en el más breve plazo posible. La
+respuesta se recibirá por correo electrónico, por lo que el módulo GDPI no hace
+un seguimiento de este proceso.
 
 ### Acción "Tramitar"
 
@@ -267,19 +270,20 @@ El botón "Tramitar" permite iniciar la tramitación de los derechos de propieda
 intelectual y conduce a un formulario algo más complejo.
 
 El formulario ofrece una barra horizontal de navegación en la zona superior. La
-zona principal de la pantalla se divide en un visor del documento que facilita
-su identificación y una zona con los campos que debe rellenar el usuario.
+zona principal de la pantalla se divide en un visor PDF que facilita su
+identificación y posibilita su descarga y una zona con los campos que debe
+rellenar el usuario.
 
 ![Formulario de tramitación de derechos de un documento.](./formulario.png)
 
 Se debe escoger una opción de las que aparecen a la derecha de la etiqueta "El
 documento contiene". Con ellas se clasifica el documento en relación con dos cuestiones:
-- ¿Se necesita autorización expresa del titular de los derechos, si lo hay?
-- ¿Se generan obligaciones económicas para la universidad.
+- ¿Se **necesita autorización** expresa del titular de los derechos, si lo hay?
+- ¿Se **genera una obligación económica** para la universidad?
 
 Estudiemos detenidamente cada una de las opciones:
 
-#### Opción 1: "Información administrativa (normmativa interna, listados de notas...)"
+#### Opción 1: "Información administrativa (normativa interna, listados de notas...)"
 
 Los documentos de naturaleza administrativa (normativas de asignatura, rúbricas
 de evaluación, listados con los resultados de evaluación de estudiantes,
