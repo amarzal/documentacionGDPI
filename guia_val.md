@@ -179,7 +179,7 @@ a tramitar la corresponent gestió de drets*.
 El menú principal de l'aula virtual (panell a mà esquerra) inclou una opció
 per accedir a la pantalla principal del mòdul GDPI:
 
-![Opció "Gestió de drets de propietat intel·lectual" al menú principal del curs (destacada en vermell).](./izquierda.png)
+![Opció "Gestió de drets de propietat intel·lectual" al menú principal del curs (destacada en vermell).](./izquierdaval.png)
 
 ## Avís de que hi ha documents pendents de gestió de drets
 
@@ -187,7 +187,7 @@ Si hi ha documents pendents de processar, apareixerà un avís a la pantalla
 principal com aquest:
 
 ![Avís de que hi ha fitxers per als que no s'ha tramitat la gestió de
-drets de propietat intel·lectual.](./aviso.png)
+drets de propietat intel·lectual.](./avisoval.png)
 
 Cal recordar que només els fitxers que poden contenir obres impreses o
 susceptibles de ser-ho s'han de sotmetre a aquest procés de gestió de drets.
@@ -200,7 +200,7 @@ i comprovar el seu estat.
 
 La pantalla principal presenta aquest aspecte:
 
-![Pantalla principal del mòdul de gestió de drets de propietat intel·lectual.](./principal.png)
+![Pantalla principal del mòdul de gestió de drets de propietat intel·lectual.](./principalval.png)
 
 A la pantalla apareix un llistat amb tots els fitxers que, pel seu tipus
 (Document PDF, document Word, document OpenOffice/LibreOffice...), poden
@@ -246,7 +246,7 @@ de tramitació:
 
 En prémer el botó "Consulta" apareix un formulari com aquest:
 
-![Formulari per a la sol·licitud d'assessorament a un especialista sobre un document.](./consulta.png)
+![Formulari per a la sol·licitud d'assessorament a un especialista sobre un document.](./consultaval.png)
 
 En la capseta de text podem expressar el dubte. La consulta es dirigirà per
 correu electrònic a un especialista en gestió de drets de propietat
@@ -264,7 +264,7 @@ zona principal de la pantalla es divideix en un visor PDF que facilita la seva
 identificació i possibilita la seva descàrrega i una zona amb els camps que ha de
 omplir l'usuari.
 
-![Formulari de tramitació de drets d'un document.](./formulario.png)
+![Formulari de tramitació de drets d'un document.](./formularioval.png)
 
 S'ha de triar una opció de les que apareixen a la dreta de l'etiqueta "El
 document conté". Amb elles es classifica el document en relació amb dues qüestions:
@@ -334,7 +334,7 @@ Si el fragment té una entitat relativa (és un capítol de llibre, un article d
 revista o no excedeix el 10% del total de l'obra), aquesta opció obre un
 formulari amb camps que identifiquen aquest fragment.
 
-![Camps del formulari de tramitació de gestió de drets.](./campos.png)
+![Camps del formulari de tramitació de gestió de drets.](./camposval.png)
 
 - **Títol** (opcional): Nom que identifiqui l'obra o fragment de l'obra que s'està utilitzant.
 - **Identificador de l'obra** (requerit): Codi d'identificació de l'obra, si n'hi ha. Si l'obra disposa d'ISBN o ISSN, ha d'usar-aquest identificador. Alternativament, pot usar-se algun altre descriptor que permeti identificar l'obra utilitzada (DOI, URL, etcètera).
