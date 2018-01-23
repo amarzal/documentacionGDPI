@@ -15,9 +15,13 @@ La guía se centra en las obras impresas o susceptibles de serlo y en obras
 plásticas aisladas. No se considera otro tipo de obras (audiovisuales,
 música...) porque:
 
-- el [Texto Refundido de la Ley de Propiedad
-Intelectual](https://www.boe.es/buscar/act.php?id=BOE-A-1996-8930) (TRLPI) da un tratamiento específico a este tipo de obras que permite su publicación en un contexto educativo
-- y existe un convenio entre CRUE y CEDRO-VEGAP que nos habilita para la reproducción de fragmentos de obras impresas o susceptibles de serlo (con ciertas limitaciones).
+- el [**Texto Refundido de la Ley de Propiedad
+Intelectual**](https://www.boe.es/buscar/act.php?id=BOE-A-1996-8930) (**TRLPI**) da
+un tratamiento específico a este tipo de obras que permite su publicación en un
+contexto educativo
+- y existe un **convenio entre CRUE y CEDRO-VEGAP** que nos
+habilita para la reproducción de fragmentos de obras impresas o susceptibles de
+serlo (con ciertas limitaciones).
 
 En ausencia de convenio con EGEDA, SGAE u otras entidades de gestión, no
 deberían publicarse en el aula virtual obras o fragmentos de obras de
@@ -32,24 +36,24 @@ remuneración equitativa a la que da derecho la ley.
 
 La información recogida sobre las obras publicadas es auditable por las
 entidades de gestión, es decir, estas pueden verificar su corrección. Esto
-implica que las entidades de gestión accedan puntualmente al contenido de los
-ficheros junto a sus datos descriptivos (salvo los documentos administrativos
-que contienen información normativa de las asignaturas, resultados de
-evaluación de los alumnos, etcétera.)
+implica que las entidades de gestión puedan acceder puntualmente al contenido
+de los ficheros junto a sus datos descriptivos (salvo al de los documentos
+administrativos que contienen información normativa de las asignaturas,
+resultados de evaluación de los alumnos, etcétera.)
 
 
-# Derechos y deberes respecto de la publicación de obras protegidas en el aula virtual
+# Derechos y deberes respecto de la publicación en el aula virtual de obras protegidas
 
 El TRLPI determina los derechos del autor de obras literarias, artísticas o
 científicas. El autor tiene el derecho exclusivo a la explotación de su obra en
-cualquier forma (artículo 2 del TRLPI) y puede transmitirlos por escrito
+cualquier forma (artículo 2 del TRLPI) y puede transmitirlo por escrito
 (artículo 45) a otras personas físicas o jurídicas (artículos 42 y 43).
 
 La puesta a disposición de los estudiantes del fragmento de una obra a través
 del aula virtual constituye un acto de **comunicación pública** (artículo 20)
 que facilita su **reproducción** (artículo 18). Este acto **requiere la
 autorización** del titular de los derechos de explotación, con las excepciones
-que determina la ley, y **puede generar obligaciones económicas** para la
+que determina la ley (que comentamos más adelante), y **puede generar obligaciones económicas** para la
 universidad.
 
 Así pues, conviene distinguir entre la necesidad o no de disponer de
@@ -63,8 +67,8 @@ transcurrido setenta años desde la muerte del autor (artículo 26).
 
 La comunicación pública y reproducción de obras de dominio público **no
 requiere autorización** y **no genera obligaciones económicas**. Es
-responsabilidad nuestra asegurarnos de que una obra es de dominio público antes
-de publicarla en el aula virtual.
+responsabilidad de quien publica un documento asegurarse de que una obra es de
+dominio público antes de publicarla en el aula virtual.
 
 ## Reproducción de un pequeño fragmento de una obra protegida
 
@@ -107,16 +111,16 @@ acordamos la puesta a disposición de la obra en el aula virtual.
 es decir, cuando la publicación es editada por el Servicio de
 Publicaciones de la UJI.
 
-En el resto de casos, se genera una **obligación económica** para la
-universidad que **ya está siendo satisfecha**. La Conferencia de Rectores de
-Universidades Españolas (CRUE) suscribió un convenio con las entidades de
-gestión CEDRO y VEGAP que da cobertura a la publicación en el aula virtual de
-fragmentos de obras impresas o susceptibles de serlo hasta el 31 de diciembre
-de 2018. El convenio determina una cuantía anual que es abonada por el conjunto
-de las universidades y que permite que los autores perciban una *remuneración
-equitativa* por estos actos. La remuneración equitativa ha de ser gestionada,
-necesariamente, por una *entidad de gestión* de derechos de propiedad
-intelectual.
+En el resto de casos (un capítulo, un artículo o hasta al 10%) se genera una
+**obligación económica** para la universidad que **ya está siendo satisfecha**.
+La Conferencia de Rectores de Universidades Españolas (CRUE) suscribió un
+convenio con las entidades de gestión CEDRO y VEGAP que da cobertura a la
+publicación en el aula virtual de fragmentos de obras impresas o susceptibles
+de serlo hasta el 31 de diciembre de 2018. El convenio determina una cuantía
+anual que es abonada por el conjunto de las universidades y que permite que los
+autores perciban una *remuneración equitativa* por estos actos. La remuneración
+equitativa ha de ser gestionada, necesariamente, por una *entidad de gestión*
+de derechos de propiedad intelectual.
 
 Para asegurar que los autores perciben la remuneración equitativa se precisa
 que el sistema registre los usos realizados en el aula virtual y que las
@@ -141,9 +145,9 @@ por lo que debe planificarse y ejecutarse con suficiente antelación al período
 en que se necesite el uso efectivo de la obra. El proceso puede durar desde
 unos pocos días a varias semanas.
 
-Por favor, inicie los trámites de gestión de licencia *solo* si dispone de
-crédito presupuestario para cubrir el gasto correspondiente y actúe con
-suficiente antelación.
+Por favor, los trámites de gestión de licencia deben inicarse *solo* si se
+dispone de crédito presupuestario para cubrir el gasto correspondiente y se
+actúa con suficiente antelación.
 
 # El módulo de gestión de derechos de propiedad intelectual del aula virtual
 
@@ -160,16 +164,13 @@ económicas para la universidad. En ciertos casos, el profesorado ha de
 proporcionar información que identifique inequívocamente la obra o fragmento de
 obra utilizada. Debe tenerse en cuenta que el sistema es auditable por las
 entidades de gestión de derechos, por lo que *siempre se ha proporcionar
-información fidedigna*. Que el sistema se auditable significa que se permite el
-acceso al contenido y datos de cualquier fichero solo a los efectos de
+información fidedigna*. Que el sistema sea auditable significa que se permite
+el acceso al contenido y datos de cualquier fichero solo a los efectos de
 comprobar que se efectúa una correcta gestión de derechos de propiedad
 intelectual. Naturalmente, los ficheros que contienen información
 administrativa propia de la asignatura (normativa de evaluación, calificaciones
 de estudiantes...) están excluidos del acceso por parte de las entidades de
 gestión.
-
-Este apartado describe el uso del módulo GDPI (Gestión de Derechos de Propiedad
-Intelectual), que se ha integrado en todos los cursos del aula virtual.
 
 ## Subida de documentos al aula virtual
 
@@ -237,7 +238,8 @@ Dado que esta pantalla contiene un listado con todos los documentos publicados
 en el aula virtual y este puede ser extenso, se proporcionan opciones de
 filtrado que nos permiten centrar la atención en los documentos de interés.
 
-La **primera opción** del filtro permite seleccionar
+La **primera opción** del filtro permite seleccionar:
+
 - *todos los documentos* cuyo tipo permite deducir que es una obra impresa o susceptible de serlo,
 - solo los documentos que permanecen *ocultos* para los estudiantes (recuerde que los documentos para los que no se ha hecho gestión alguna pasan a este estado en un determinado plazo de tiempo),
 - o solo los *visibles* para los estudiantes.
@@ -278,6 +280,7 @@ rellenar el usuario.
 
 Se debe escoger una opción de las que aparecen a la derecha de la etiqueta "El
 documento contiene". Con ellas se clasifica el documento en relación con dos cuestiones:
+
 - ¿Se **necesita autorización** expresa del titular de los derechos, si lo hay?
 - ¿Se **genera una obligación económica** para la universidad?
 
@@ -338,7 +341,7 @@ documento. Pulse la opción "Tramitar" para procesar el documento.
 
 El contenido del documento puede ser consultado por las entidades de gestión como parte de un proceso de auditoría.
 
-### Opción 5: "Un fragmento de una obra (capítulo de libro, artículo o extensión no superior al 10%)"
+#### Opción 5: "Un fragmento de una obra (capítulo de libro, artículo o extensión no superior al 10%)"
 
 Si el fragmento tiene una entidad relativa (es un capítulo de libro, un
 artículo de revista o no excede el 10% del total de la obra), esta opción abre
@@ -362,10 +365,11 @@ celebrado entre CRUE y CEDRO-VEGAP.
 
 El contenido del documento puede ser consultado por las entidades de gestión como parte de un proceso de auditoría.
 
-### Opción 6: "Una obra de la que dispongo de licencia en vigor"
+#### Opción 6: "Una obra de la que dispongo de licencia en vigor"
 
 
 Al escoger esta opción se despliega un formulario similar al de la opción anterior. El formulario incluye dos campos adicionales:
+
 - **Fecha de fin de licencia**: Indicar la fecha de expiración de la licencia. Permite que, si procede, el uso del mismo documento en ediciones posteriores del curso no fuerce a una nueva tramitación de la gestión de derechos.
 - **Licencia**: Descripción de la licencia.
 
