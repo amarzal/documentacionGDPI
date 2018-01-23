@@ -2,6 +2,7 @@
 title: 'Módulo de Gestión de Derechos de Propiedad Intelectual para el Aula Virtual'
 author: 'Universitat Jaume I'
 titlepage: true
+logo: "marca-uji-color.pdf"
 lang: es-ES
 ---
 
@@ -9,7 +10,7 @@ lang: es-ES
 
 La primera parte de esta guía proporciona una orientación al profesorado sobre
 sus obligaciones y derechos al publicar una obra o fragmento de una obra en el
-aula virtual.
+Aula Virtual.
 
 La guía se centra en las obras impresas o susceptibles de serlo y en obras
 plásticas aisladas. No se considera otro tipo de obras (audiovisuales,
@@ -24,11 +25,11 @@ habilita para la reproducción de fragmentos de obras impresas o susceptibles de
 serlo (con ciertas limitaciones).
 
 En ausencia de convenio con EGEDA, SGAE u otras entidades de gestión, no
-deberían publicarse en el aula virtual obras o fragmentos de obras de
+deberían publicarse en el Aula Virtual obras o fragmentos de obras de
 naturaleza audiovisual si no se cuenta con las correspondientes licencias.
 
 La segunda parte de esta guía describe el módulo de Gestión de Derechos de
-Propiedad Intelectual (GDPI) integrado en el aula virtual de la Universitat
+Propiedad Intelectual (GDPI) integrado en el Aula Virtual de la Universitat
 Jaume I. El sistema trata de asegurar que los usos de obras o de fragmentos de
 obras impresas o susceptibles de serlo se ajustan a la legalidad. Al mismo
 tiempo, recopila información para determinar criterios de reparto justo de la
@@ -42,7 +43,7 @@ administrativos que contienen información normativa de las asignaturas,
 resultados de evaluación de los alumnos, etcétera.)
 
 
-# Derechos y deberes respecto de la publicación en el aula virtual de obras protegidas
+# Derechos y deberes respecto de la publicación en el Aula Virtual de obras protegidas
 
 El TRLPI determina los derechos del autor de obras literarias, artísticas o
 científicas. El autor tiene el derecho exclusivo a la explotación de su obra en
@@ -50,7 +51,7 @@ cualquier forma (artículo 2 del TRLPI) y puede transmitirlo por escrito
 (artículo 45) a otras personas físicas o jurídicas (artículos 42 y 43).
 
 La puesta a disposición de los estudiantes del fragmento de una obra a través
-del aula virtual constituye un acto de **comunicación pública** (artículo 20)
+del Aula Virtual constituye un acto de **comunicación pública** (artículo 20)
 que facilita su **reproducción** (artículo 18). Este acto **requiere la
 autorización** del titular de los derechos de explotación, con las excepciones
 que determina la ley (que comentamos más adelante), y **puede generar obligaciones económicas** para la
@@ -68,7 +69,7 @@ transcurrido setenta años desde la muerte del autor (artículo 26).
 La comunicación pública y reproducción de obras de dominio público **no
 requiere autorización** y **no genera obligaciones económicas**. Es
 responsabilidad de quien publica un documento asegurarse de que una obra es de
-dominio público antes de publicarla en el aula virtual.
+dominio público antes de publicarla en el Aula Virtual.
 
 ## Reproducción de un pequeño fragmento de una obra protegida
 
@@ -99,14 +100,14 @@ educativos. La reproducción debe limitarse a fragmentos consistentes en:
 - o una porción cuya extensión no supere el *10% del total de la obra*.
 
 Solo los estudiantes del curso (o sus profesores) han de poder acceder al
-fragmento, por lo que el curso del aula virtual en el que se aloja el fragmento
+fragmento, por lo que el curso del Aula Virtual en el que se aloja el fragmento
 *no puede estar abierto al público*.
 
 La publicación **no genera obligaciones económicas** para la universidad
 (artículo 32.4) en lo siguientes casos:
 
 - Cuando somos los titulares de los derechos de propiedad intelectual y
-acordamos la puesta a disposición de la obra en el aula virtual.
+acordamos la puesta a disposición de la obra en el Aula Virtual.
 - Cuando la propia universidad es cesionaria de los derechos de explotación,
 es decir, cuando la publicación es editada por el Servicio de
 Publicaciones de la UJI.
@@ -115,7 +116,7 @@ En el resto de casos (un capítulo, un artículo o hasta al 10%) se genera una
 **obligación económica** para la universidad que **ya está siendo satisfecha**.
 La Conferencia de Rectores de Universidades Españolas (CRUE) suscribió un
 convenio con las entidades de gestión CEDRO y VEGAP que da cobertura a la
-publicación en el aula virtual de fragmentos de obras impresas o susceptibles
+publicación en el Aula Virtual de fragmentos de obras impresas o susceptibles
 de serlo hasta el 31 de diciembre de 2018. El convenio determina una cuantía
 anual que es abonada por el conjunto de las universidades y que permite que los
 autores perciban una *remuneración equitativa* por estos actos. La remuneración
@@ -123,7 +124,7 @@ equitativa ha de ser gestionada, necesariamente, por una *entidad de gestión*
 de derechos de propiedad intelectual.
 
 Para asegurar que los autores perciben la remuneración equitativa se precisa
-que el sistema registre los usos realizados en el aula virtual y que las
+que el sistema registre los usos realizados en el Aula Virtual y que las
 entidades de gestión tengan acceso a esta información. El sistema de gestión de
 derechos que ponemos en explotación en el segundo semestre del curso 2017/2018
 tiene ese objetivo.
@@ -136,7 +137,7 @@ sujeta a un pago**. El contrato que formaliza una cesión específica de uso,
 copia o distribución de una obra recibe el nombre de **licencia**.
 
 La universidad facilita la tramitación de licencias a través de un formulario
-en el sistema de gestión de derechos del aula virtual. Los costes que ocasione
+en el sistema de gestión de derechos del Aula Virtual. Los costes que ocasione
 la licencia deberán asumirse presupuestariamente por el departamento o centro
 responsable de la asignatura.
 
@@ -149,13 +150,13 @@ Por favor, los trámites de gestión de licencia deben inicarse *solo* si se
 dispone de crédito presupuestario para cubrir el gasto correspondiente y se
 actúa con suficiente antelación.
 
-# El módulo de gestión de derechos de propiedad intelectual del aula virtual
+# El módulo de gestión de derechos de propiedad intelectual del Aula Virtual
 
-Con objeto de asegurar el cumplimiento del TRLPI en el aula virtual se ha
+Con objeto de asegurar el cumplimiento del TRLPI en el Aula Virtual se ha
 integrado un módulo de Gestión de Derechos de Propiedad Intelectual (GDPI).
 
 Aunque el sistema se ha diseñado pensando en interferir lo menos posible en la
-actividad normal de uso del aula virtual, se requiere la colaboración del
+actividad normal de uso del Aula Virtual, se requiere la colaboración del
 profesorado. Se ha facilitado al máximo el proceso de subida y publicación de
 documentos, pero se debe efectuar una tramitación para cada uno de ellos. El
 objetivo es recabar la información que permita determinar si el fichero
@@ -172,7 +173,7 @@ administrativa propia de la asignatura (normativa de evaluación, calificaciones
 de estudiantes...) están excluidos del acceso por parte de las entidades de
 gestión.
 
-## Subida de documentos al aula virtual
+## Subida de documentos al Aula Virtual
 
 Durante el acto de subida del documento no es necesario cumplimentar ningún
 dato relativo a la gestión de derechos de propiedad intelectual.
@@ -186,7 +187,7 @@ el documento se ocultará a los estudiantes automáticamente.
 Es recomendable, por tanto, que *tan pronto se publique un documento se proceda
 a tramitar la correspondiente gestión de derechos*.
 
-El menú principal del aula virtual (panel a mano izquierda) incluye una opción
+El menú principal del Aula Virtual (panel a mano izquierda) incluye una opción
 para acceder a la pantalla principal del módulo GDPI:
 
 ![Opción "Gestión de derechos de propiedad intelectual" en el menú principal del curso (destacada en rojo).](./izquierda.png)
@@ -235,7 +236,7 @@ Acompaña a cada documento, además, la posibilidad de efectuar dos acciones:
 ### Filtro de documentos
 
 Dado que esta pantalla contiene un listado con todos los documentos publicados
-en el aula virtual y este puede ser extenso, se proporcionan opciones de
+en el Aula Virtual y este puede ser extenso, se proporcionan opciones de
 filtrado que nos permiten centrar la atención en los documentos de interés.
 
 La **primera opción** del filtro permite seleccionar:
@@ -250,8 +251,8 @@ de tramitación :
 
 - *Sin tramitar*: ficheros que tienen pendiente la tramitación de la gestión de derechos de propiedad intelectual.
 - *En  tramitación*: ficheros de los que se ha solicitado la gestión de una licencia y no se tiene respuesta.
-- *Autorizado*: ficheros de los que se completado con éxito la tramitación y pueden publicarse en el aula virtual.
-- *No autorizado*: ficheros para los que se ha resuelto que no es posible efectuar la publicación en el aula virtual.
+- *Autorizado*: ficheros de los que se completado con éxito la tramitación y pueden publicarse en el Aula Virtual.
+- *No autorizado*: ficheros para los que se ha resuelto que no es posible efectuar la publicación en el Aula Virtual.
 
 
 ### Acción "Consulta"
@@ -305,7 +306,7 @@ carácter personal.
 
 Cuando el autor o autores son parte del profesorado de la universidad, han
 realizado la obra como parte de su trabajo y no han cedido los derechos de
-explotación a un tercero, el documento puede publicarse en el aula virtual y no
+explotación a un tercero, el documento puede publicarse en el Aula Virtual y no
 se generan obligaciones económicas para la universidad.
 
 Este es el caso habitual de los boletines de problemas, exámenes de asignatura,
@@ -319,8 +320,8 @@ El contenido del documento puede ser consultado por las entidades de gestión co
 #### Opción 3: "Una obra editada por el servicio de publicaciones de la universidad"
 
 Si la obra ha sido publicada por la universidad y es cesionaria de los derechos
-de explotación, no se requiere autorización para la publicación en el aula
-virtual. La reproducción no genera obligaciones económicas para la universidad.
+de explotación, no se requiere autorización para la publicación en el Aula
+Virtual. La reproducción no genera obligaciones económicas para la universidad.
 
 CRUE está trabajando en la firma de un convenio que permita a todas las
 universidades compartir sus fondos editoriales. De momento, solo se puede

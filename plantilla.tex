@@ -348,6 +348,7 @@ $if(dir)$
 \fi
 $endif$
 
+
 $if(title)$
 \title{$title$$if(thanks)$\thanks{$thanks$}$endif$}
 $endif$
@@ -646,6 +647,7 @@ $if(titlepage-color)$
 \definecolor{titlepage-color}{HTML}{$titlepage-color$}
 \newpagecolor{titlepage-color}\afterpage{\restorepagecolor}
 $endif$
+\includegraphics{marca-uji-color.pdf}
 \newcommand{\colorRule}[3][black]{\textcolor[HTML]{#1}{\rule{#2}{#3}}}
 \begin{flushleft}
 \noindent

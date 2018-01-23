@@ -8,7 +8,7 @@ lang: ca-ES
 # Introducció
 
 La primera part d'aquesta guia proporciona una orientació al professorat sobre
-les seues obligacions i drets en publicar una obra o fragment d'una obra a l'aula virtual.
+les seues obligacions i drets en publicar una obra o fragment d'una obra a l'Aula Virtual.
 
 La guia se centra en les obres impreses o susceptibles de ser-ho i en obres
 plàstiques aïllades. No es considera un altre tipus d'obres (audiovisuals,
@@ -19,11 +19,11 @@ Intel·lectual**](https://www.boe.es/buscar/act.php?id=BOE-A-1996-8930) (**TRLPI
 - i hi ha un **conveni entre CRUE i CEDRO-VEGAP** que ens habilita per a la reproducció de fragments d'obres impreses o susceptibles de ser-ho (amb certes limitacions).
 
 En absència de conveni amb EGEDA, SGAE o altres entitats de gestió, no
-s'haurien de publicar a l'aula virtual obres o fragments d'obres de
+s'haurien de publicar a l'Aula Virtual obres o fragments d'obres de
 naturalesa audiovisual si no es compta amb les corresponents llicències.
 
 La segona part d'aquesta guia descriu el mòdul de Gestió de Drets de Propietat
-Intel·lectual (GDPI) integrat a l'aula virtual de la Universitat Jaume I. El
+Intel·lectual (GDPI) integrat a l'Aula Virtual de la Universitat Jaume I. El
 sistema tracta d'assegurar que els usos d'obres o de fragments d'obres impreses
 o susceptibles de ser-ho s'ajusten a la legalitat. Al mateix temps, recopila
 informació per determinar criteris de repartiment just de la remuneració
@@ -32,12 +32,12 @@ equitativa a la qual dóna dret la llei.
 La informació recollida sobre les obres publicades és auditable per les
 entitats de gestió, és a dir, aquestes poden verificar la seva correcció. Això
 implica que les entitats de gestió puguen accedir puntualment al contingut dels
-fitxers al costat de les seus dades descriptives (excepte al dels documents
+fitxers al costat de les seues dades descriptives (excepte al dels documents
 administratius que contenen informació normativa de les assignatures, resultats
 de avaluació dels alumnes, etcètera.)
 
 
-# Drets i deures respecte de la publicació a l'aula virtual d'obres protegides
+# Drets i deures respecte de la publicació a l'Aula Virtual d'obres protegides
 
 El TRLPI determina els drets de l'autor d'obres literàries, artístiques o
 científiques. L'autor té el dret exclusiu a l'explotació de la seua obra en
@@ -45,14 +45,13 @@ qualsevol forma (article 2 del TRLPI) i pot transmetre'l per escrit
 (Article 45) a altres persones físiques o jurídiques (articles 42 i 43).
 
 La posada a disposició dels estudiants del fragment d'una obra a través de
-l'aula virtual constitueix un acte de **comunicació pública** (article 20) que
+l'Aula Virtual constitueix un acte de **comunicació pública** (article 20) que
 facilita la seva **reproducció** (article 18). Aquest acte **requereix la
 autorització** del titular dels drets d'explotació, amb les excepcions que
 determina la llei (que comentem més endavant), i **pot generar obligacions
 econòmiques** per a la universitat.
 
-Així doncs, convé distingir entre la necessitat o no de disposar de
-**autorització** i la generació o no d'**obligacions econòmiques**.
+Així doncs, convé distingir entre la necessitat o no de disposar d'**autorització** i la generació o no d'**obligacions econòmiques**.
 
 ## Publicació d'una obra de domini públic
 
@@ -63,7 +62,7 @@ transcorregut setanta anys des de la mort de l'autor (article 26).
 La comunicació pública i reproducció d'obres de domini públic **no requereix
 autorització** i **no genera obligacions econòmiques**. És responsabilitat de
 qui publica un document assegurar-se que l'obra és de domini públic abans de
-publicar-la a l'aula virtual.
+publicar-la a l'Aula Virtual.
 
 ## Reproducció d'un xicotet fragment d'una obra protegida
 
@@ -93,20 +92,20 @@ reproducció s'ha de limitar a fragments consistents en:
 - o una porció l'extensió de la qual no supera el *10% del total de l'obra*.
 
 Només els estudiants del curs (o els seus professors) han de poder accedir al
-fragment, de manera que el curs de l'aula virtual en què s'allotja el fragment
+fragment, de manera que el curs de l'Aula Virtual en què s'allotja el fragment
 *no pot estar obert al públic*.
 
 La publicació **no genera obligacions econòmiques** per a la universitat
 (Article 32.4) en el següents casos:
 
-- Quan som els titulars dels drets de propietat intel·lectual i vam acordar la posada a disposició de l'obra a l'aula virtual.
+- Quan som els titulars dels drets de propietat intel·lectual i vam acordar la posada a disposició de l'obra a l'Aula Virtual.
 - Quan la pròpia universitat és cessionària dels drets d'explotació, és a dir, quan la publicació és editada pel Servei de Publicacions de l'UJI.
 
 En la resta de casos (un capítol, un article o fins al 10%) es genera una
 **obligació econòmica** per a la universitat que **ja està sent satisfeta**. La
 Conferència de Rectors de Universitats Espanyoles (CRUE) va subscriure un
 conveni amb les entitats de gestió CEDRO i VEGAP que dóna cobertura a la
-publicació a l'aula virtual de fragments d'obres impreses o susceptibles de
+publicació a l'Aula Virtual de fragments d'obres impreses o susceptibles de
 ser-ho fins al 31 de desembre de 2018. El conveni determina una quantia anual
 que és abonada pel conjunt de les universitats i que permet que els autors
 percebin una *remuneració equitativa* per aquests actes. La remuneració
@@ -114,7 +113,7 @@ equitativa ha de ser gestionada, necessàriament, per una *entitat de gestió* d
 drets de propietat intel·lectual.
 
 Per assegurar que els autors perceben la remuneració equitativa cal que el
-sistema registre els usos realitzats a l'aula virtual i que les entitats de
+sistema registre els usos realitzats a l'Aula Virtual i que les entitats de
 gestió tinguen accés a aquesta informació. El sistema de gestió de drets que
 posem en explotació en el segon semestre del curs 2017/2018 té aquest objectiu.
 
@@ -126,7 +125,7 @@ subjecta a un pagament**. El contracte que formalitza una cessió específica
 d'ús, còpia o distribució d'una obra rep el nom de **llicència**.
 
 La universitat facilita la tramitació de llicències a través d'un formulari en
-el sistema de gestió de drets de l'aula virtual. Els costos que ocasione la
+el sistema de gestió de drets de l'Aula Virtual. Els costos que ocasione la
 llicència hauran d'assumir-se pressupostàriament pel departament o centre
 responsable de l'assignatura.
 
@@ -139,13 +138,13 @@ Per favor, els tràmits de gestió de llicència *només* s'han d'iniciar si es
 disposa de crèdit pressupostari per cobrir la despesa corresponent i s'actua
 amb suficient antelació.
 
-# El mòdul de gestió de drets de propietat intel·lectual de l'aula virtual
+# El mòdul de gestió de drets de propietat intel·lectual de l'Aula Virtual
 
-A fi d'assegurar el compliment del TRLPI a l'aula virtual s'ha
+A fi d'assegurar el compliment del TRLPI a l'Aula Virtual s'ha
 integrat un mòdul de Gestió de Drets de Propietat Intel·lectual (GDPI).
 
 Tot i que el sistema s'ha dissenyat pensant en interferir el menys possible en
-l'activitat normal d'ús de l'aula virtual, es requereix la col·laboració del
+l'activitat normal d'ús de l'Aula Virtual, es requereix la col·laboració del
 professorat. S'ha facilitat al màxim el procés de pujada i publicació de
 documents, però s'ha d'efectuar una tramitació per a cada un d'ells. el
 objectiu és demanar la informació que permeti determinar si el fitxer necessita
@@ -162,7 +161,7 @@ d'avaluació, qualificacions d'estudiants ...) estan exclosos de l'accés per
 part de les entitats de gestió.
 
 
-## Pujada de documents a l'aula virtual
+## Pujada de documents a l'Aula Virtual
 
 Durant l'acte de pujada del document no és necessari omplir cap dada relativa a
 la gestió de drets de propietat intel·lectual.
@@ -176,12 +175,12 @@ s'amagarà als estudiants automàticament.
 És recomanable, per tant, que *tan aviat es publiqui un document es procedeixi
 a tramitar la corresponent gestió de drets*.
 
-El menú principal de l'aula virtual (panell a mà esquerra) inclou una opció
+El menú principal de l'Aula Virtual (panell a mà esquerra) inclou una opció
 per accedir a la pantalla principal del mòdul GDPI:
 
 ![Opció "Gestió de drets de propietat intel·lectual" al menú principal del curs (destacada en vermell).](./izquierdaval.png)
 
-## Avís de que hi ha documents pendents de gestió de drets
+## Avís que hi ha documents pendents de gestió de drets
 
 Si hi ha documents pendents de processar, apareixerà un avís a la pantalla
 principal com aquest:
@@ -225,7 +224,7 @@ Acompanya a cada document, a més, la possibilitat d'efectuar dues accions:
 ### Filtre de documents
 
 Atès que aquesta pantalla conté un llistat amb tots els documents publicats
-a l'aula virtual i aquest pot ser extens, es proporcionen opcions de
+a l'Aula Virtual i aquest pot ser extens, es proporcionen opcions de
 filtrat que ens permeten centrar l'atenció en els documents d'interès.
 
 La **primera opció** del filtre permet seleccionar
@@ -239,8 +238,8 @@ de tramitació:
 
 - *Sense tramitar*: fitxers que tenen pendent la tramitació de la gestió de drets de propietat intel·lectual.
 - *En tramitació*: fitxers dels quals s'ha sol·licitat la gestió d'una llicència i no es té resposta.
-- *Autoritzat*: fitxers dels quals es completat amb èxit la tramitació i poden publicar-se en l'aula virtual.
-- *No autoritzat*: fitxers per als que s'ha resolt que no és possible efectuar la publicació a l'aula virtual.
+- *Autoritzat*: fitxers dels quals es completat amb èxit la tramitació i poden publicar-se en l'Aula Virtual.
+- *No autoritzat*: fitxers per als que s'ha resolt que no és possible efectuar la publicació a l'Aula Virtual.
 
 ### Acció "Consulta"
 
@@ -292,7 +291,7 @@ caràcter personal.
 
 Quan l'autor o autors són part del professorat de la universitat, han
 realitzat l'obra com a part del seu treball i no han cedit els drets de
-explotació a un tercer, el document es pot publicar a l'aula virtual i no
+explotació a un tercer, el document es pot publicar a l'Aula Virtual i no
 es generen obligacions econòmiques per a la universitat.
 
 Aquest és el cas habitual dels butlletins de problemes, exàmens d'assignatura,
@@ -306,8 +305,8 @@ El contingut del document pot ser consultat per les entitats de gestió com a pa
 #### Opció 3: "Una obra editada pel servei de publicacions de la universitat"
 
 Si l'obra ha estat publicada per la universitat i és cessionària dels drets
-d'explotació, no es requereix autorització per a la publicació a l'aula
-virtual. La reproducció no genera obligacions econòmiques per a la universitat.
+d'explotació, no es requereix autorització per a la publicació a l'Aula
+Virtual. La reproducció no genera obligacions econòmiques per a la universitat.
 
 CRUE està treballant en la signatura d'un conveni que permeti a totes les
 universitats compartir els seus fons editorials. De moment, només es pot
@@ -356,6 +355,7 @@ El contingut del document pot ser consultat per les entitats de gestió com a pa
 
 
 En escollir aquesta opció es desplega un formulari similar al de l'opció anterior. El formulari inclou dos camps addicionals:
+
 - **Data de fi de llicència**: Indicar la data d'expiració de la llicència. Permet que, si escau, l'ús del mateix document en edicions posteriors del curs no forci a una nova tramitació de la gestió de drets.
 - **Llicència**: Descripció de la llicència.
 
