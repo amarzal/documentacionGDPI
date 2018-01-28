@@ -1,4 +1,6 @@
 #/usr/bin/bash
 
-pandoc guia.md -o guia.pdf --template=plantilla.tex --pdf-engine=lualatex --number-sections --toc
-pandoc guia_val.md -o guia_val.pdf --template=plantilla.tex --pdf-engine=lualatex --number-sections --toc
+pandoc guia.md -o guia.html -s --number-sections --toc --from markdown+footnotes
+pandoc guia_val.md -o guia_val.html -s --number-sections --toc --from markdown+footnotes
+pandoc guia.md -o guia.pdf --template=plantilla.tex --pdf-engine=lualatex --number-sections --toc --from markdown+footnotes
+pandoc guia_val.md -o guia_val.pdf --template=plantilla.tex --pdf-engine=lualatex --number-sections --toc --from markdown+footnotes
