@@ -9,7 +9,11 @@ Conclusiones:
 - Necesitamos de la colaboración de todo el profesorado para que esta iniciativa sea útil y, a la vez que podemos
 
 
+PARADA MOMENTÁNEA EL MARTES, DE 7:30 a 8.00.
+
 LA GUIA DE CARLES.
+
+**OPCION 8: NO ES UNA OBRA IMPRESA O SUSCEPTIBLE DE SERLO**.
 
 El software, desarrollado por la UJI bajo un modelo de código abierto, podrá ser adoptado las universidades española que usan Moodle como plataforma para el aula virtual. También servirá de referencia para el resto de universidades, que tendrán que desarrollar funcionalidad similar en los próximos cursos.
 

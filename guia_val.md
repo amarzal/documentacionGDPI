@@ -124,19 +124,13 @@ autorització expressa** del titular dels drets i, per regla general, **està
 subjecta a un pagament**. El contracte que formalitza una cessió específica
 d'ús, còpia o distribució d'una obra rep el nom de **llicència**.
 
-La universitat facilita la tramitació de llicències a través d'un formulari en
-el sistema de gestió de drets de l'Aula Virtual. Els costos que ocasione la
-llicència hauran d'assumir-se pressupostàriament pel departament o centre
-responsable de l'assignatura.
-
+La gestió de la llicència pot realitzar-se a través de la pàgina
+[https://www.conlicencia.com/](https://www.conlicencia.com/). La llicència està
+subjecta a un pagament, per la qual cosa cal disposar de crèdit pressupostari.
 La tramitació d'una llicència no és un procés immediat ni està automatitzat,
-per la qual cosa s'ha de planificar i executar-se amb suficient antelació al
+per la qual cosa s'ha de planificar i executar amb suficient antelació al
 període en què es necessite l'ús efectiu de l'obra. El procés pot durar des
 d'uns pocs dies a setmanes.
-
-Per favor, els tràmits de gestió de llicència *només* s'han d'iniciar si es
-disposa de crèdit pressupostari per cobrir la despesa corresponent i s'actua
-amb suficient antelació.
 
 # El mòdul de gestió de drets de propietat intel·lectual de l'Aula Virtual
 
@@ -237,7 +231,6 @@ La **segona opció** del filtre selecciona els documents en funció de l'estat
 de tramitació:
 
 - *Sense tramitar*: fitxers que tenen pendent la tramitació de la gestió de drets de propietat intel·lectual.
-- *En tramitació*: fitxers dels quals s'ha sol·licitat la gestió d'una llicència i no es té resposta.
 - *Autoritzat*: fitxers dels quals es completat amb èxit la tramitació i poden publicar-se en l'Aula Virtual.
 - *No autoritzat*: fitxers per als que s'ha resolt que no és possible efectuar la publicació a l'Aula Virtual.
 
@@ -363,16 +356,14 @@ Les obres amb llicències que no generen obligacions econòmiques per a usos no
 comercials caben en aquesta opció. És el cas de Creative Commons i altres
 llicències permissives.
 
-El contingut del document pot ser consultat per les entitats de gestió com a part d'un procés d'auditoria.
+El contingut del document pot ser consultat per les entitats de gestió com a
+part d'un procés d'auditoria.
 
-#### Opció 7: "Un altre (tramitació de llicència amb cost econòmic)"
 
-La resta d'obres està subjecta a l'obtenció d'una llicència. La tramitació de
-la llicència és un procés manual gestionat un especialista en drets de
-propietat intel·lectual. La tramitació donarà lloc a un procés que no està
-integrat en el mòdul GDPI. Usualment es farà servir el correu electrònic per comunicar-se amb el sol·licitant i anar executant els diferents passos necessaris.
+#### Opció 7: "Altres (amagar activitat que conté el document)"
 
-Aquest tràmit només s'ha d'iniciar si es disposa de crèdit presupuestatio per
-fer front a les obligacions econòmiques de la llicència.
-
-El contingut del document pot ser consultat per les entitats de gestió com a part d'un procés d'auditoria.
+Aquesta opció s'ha d'escollir si el document no compta amb autorització per a la seva
+publicació. L'activitat que conté el document passarà a estar oculta. Una
+vegada es dispose de l'oportuna llicència es podrà tornar a tramitar la gestió
+de drets de propietat intel·lectual del document i mostrar-lo als
+estudiants del curs.

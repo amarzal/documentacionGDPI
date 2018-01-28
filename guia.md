@@ -136,19 +136,13 @@ autorización expresa** del titular de los derechos y, por regla general, **est�
 sujeta a un pago**. El contrato que formaliza una cesión específica de uso,
 copia o distribución de una obra recibe el nombre de **licencia**.
 
-La universidad facilita la tramitación de licencias a través de un formulario
-en el sistema de gestión de derechos del Aula Virtual. Los costes que ocasione
-la licencia deberán asumirse presupuestariamente por el departamento o centro
-responsable de la asignatura.
-
-La tramitación de una licencia no es un proceso inmediato ni está automatizado,
+La gestión de la licencia puede realizarse a través de la página
+[https://www.conlicencia.com/](https://www.conlicencia.com/). La licencia está
+sujeta a un pago, por lo que se requiere disponer de crédito presupuestario. La
+tramitación de una licencia no es un proceso inmediato ni está automatizado,
 por lo que debe planificarse y ejecutarse con suficiente antelación al período
 en que se necesite el uso efectivo de la obra. El proceso puede durar desde
 unos pocos días a varias semanas.
-
-Por favor, los trámites de gestión de licencia deben inicarse *solo* si se
-dispone de crédito presupuestario para cubrir el gasto correspondiente y se
-actúa con suficiente antelación.
 
 # El módulo de gestión de derechos de propiedad intelectual del Aula Virtual
 
@@ -250,7 +244,6 @@ La **segunda opción** del filtro selecciona los documentos en función del esta
 de tramitación :
 
 - *Sin tramitar*: ficheros que tienen pendiente la tramitación de la gestión de derechos de propiedad intelectual.
-- *En  tramitación*: ficheros de los que se ha solicitado la gestión de una licencia y no se tiene respuesta.
 - *Autorizado*: ficheros de los que se completado con éxito la tramitación y pueden publicarse en el Aula Virtual.
 - *No autorizado*: ficheros para los que se ha resuelto que no es posible efectuar la publicación en el Aula Virtual.
 
@@ -380,16 +373,11 @@ licencias permisivas.
 
 El contenido del documento puede ser consultado por las entidades de gestión como parte de un proceso de auditoría.
 
-#### Opción 7: "Otro (tramitación de licencia con coste económico)"
 
-El resto de obras está sujeta a la obtención de una licencia. La tramitación de
-la licencia es un proceso manual gestionado un especialista en derechos de
-propiedad intelectual. La tramitación dará lugar a un proceso que no está
-integrado en el módulo GDPI. Usualmente se usará el correo electrónico para comunicarse con el solicitante e ir ejecutando los diferentes pasos necesarios.
+#### Opción 7: "Otros (ocultar actividad que contiene al documento)"
 
-Este trámite solo debe iniciarse si se dispone de crédito presupuestatio para
-hacer frente a las obligaciones económicas de la licencia.
-
-El contenido del documento puede ser consultado por las entidades de gestión como parte de un proceso de auditoría.
-
-
+Esta opción se debe escoger si el documento no cuenta con autorización para su
+publicación. La actividad que contiene al documento pasará a estar oculta. Una
+vez se disponga de la oportuna licencia se podrá volver a tramitar la gestión
+de derechos de propiedad intelectual del documento y mostrarlo a los
+estudiantes del curso.
