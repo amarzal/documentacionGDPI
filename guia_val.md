@@ -150,7 +150,7 @@ l'editorial. La llicència està subjecta a un pagament, per la qual cosa cal
 disposar de crèdit pressupostari. La tramitació d'una llicència no és un procés
 immediat ni està automatitzat, per la qual cosa s'ha de planificar i executar
 amb suficient antelació al període en què es necessite l'ús efectiu de l'obra.
-El procés es semblant al d'adquisició d'un llibre, no depèn només de la universitat i pot tardar dies, setmanes o mesos. Si creuq ue necessita una llicència, considere abans la conveniència d'adquirir l'obra impresa o en format electrònic per a la seua posada a disposició dels estudiants a través de la Biblioteca.
+El procés es semblant al d'adquisició d'un llibre, no depèn només de la universitat i pot tardar dies, setmanes o mesos. Si creu que necessita una llicència, considere abans la conveniència d'adquirir l'obra impresa o en format electrònic per a la seua posada a disposició dels estudiants a través de la Biblioteca.
 
 # El mòdul de gestió de drets de propietat intel·lectual de l'Aula Virtual
 
@@ -248,6 +248,7 @@ La **segona opció** del filtre selecciona els documents en funció de l'estat
 de tramitació:
 
 - *Sense tramitar*: fitxers que tenen pendent la tramitació de la gestió de drets de propietat intel·lectual.
+- *En tramitació*: S'ha iniciat un procediment de tramitació d'adquisició de llicència que encara no s'ha conclòs.
 - *Autoritzat*: fitxers dels quals es completat amb èxit la tramitació i poden publicar-se en l'Aula Virtual.
 - *No autoritzat*: fitxers per als que s'ha resolt que no és possible efectuar la publicació a l'Aula Virtual.
 

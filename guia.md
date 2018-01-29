@@ -260,6 +260,7 @@ La **segunda opción** del filtro selecciona los documentos en función del esta
 de tramitación :
 
 - *Sin tramitar*: ficheros que tienen pendiente la tramitación de la gestión de derechos de propiedad intelectual.
+- *En tramitación*: Se ha iniciado un procedo de tramitación de adquisición de una licencia que aún no ha concluido.
 - *Autorizado*: ficheros de los que se completado con éxito la tramitación y pueden publicarse en el Aula Virtual.
 - *No autorizado*: ficheros para los que se ha resuelto que no es posible efectuar la publicación en el Aula Virtual.
 
