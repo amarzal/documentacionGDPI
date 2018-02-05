@@ -20,6 +20,7 @@
 <header>
 <h1 class="title">Mòdul de Gestió de Drets de Propietat Intel·lectual per a l’Aula Virtual</h1>
 <p class="author">Universitat Jaume I</p>
+<p class="date">Versió 0.2</p>
 </header>
 <nav id="TOC">
 <ul>
@@ -36,8 +37,11 @@
 <li><a href="#llistat-de-documents"><span class="toc-section-number">3.2.1</span> Llistat de documents</a></li>
 <li><a href="#filtre-de-documents"><span class="toc-section-number">3.2.2</span> Filtre de documents</a></li>
 <li><a href="#acció-consulta"><span class="toc-section-number">3.2.3</span> Acció “Consulta”</a></li>
-<li><a href="#acció-tramitar"><span class="toc-section-number">3.2.4</span> Acció “Tramitar”</a></li>
+<li><a href="#acció-gestionar"><span class="toc-section-number">3.2.4</span> Acció “Gestionar”</a></li>
 </ul></li>
+</ul></li>
+<li><a href="#canvis-entre-versions-del-mòdul"><span class="toc-section-number">4</span> Canvis entre versions del mòdul</a><ul>
+<li><a href="#canvis-respecte-de-la-versió-0.1"><span class="toc-section-number">4.1</span> Canvis respecte de la versió 0.1</a></li>
 </ul></li>
 </ul>
 </nav>
@@ -105,13 +109,15 @@
 <h3 id="llistat-de-documents"><span class="header-section-number">3.2.1</span> Llistat de documents</h3>
 <p>El llistat presenta tres columnes:</p>
 <ul>
+<li><strong>Creat</strong>: Data de creació del fitxer.</li>
 <li><strong>Fitxer</strong>: Nom del fitxer. Prement en ell s’accedeix al document per a la seua descàrrega.</li>
 <li><strong>Ocult</strong>: Indica si el fitxer és accessible pels estudiants en aquest moment.</li>
 <li><strong>Estat</strong>: Mostra l’estat de tramitació de la gestió de drets de propietat intel·lectual.</li>
 </ul>
+<p>El llistat es pot ordenar per qualsevol ascendement i descendement per qualsevol dels camps. Els camps es poden mostrar o ocultar a voluntat.</p>
 <p>És possible efectuar dues accions per a cada document:</p>
 <ul>
-<li><strong>Tramitar</strong>: Dirigeix al formulari de gestió de drets del document.</li>
+<li><strong>Gestionar</strong>: Dirigeix al formulari de gestió de drets del document.</li>
 <li><strong>Mira</strong>: Dirigeix una sol·licitud d’assessorament a personal especialista en gestió de drets de propietat intel·lectual per resoldre dubtes relatius al fitxer.</li>
 </ul>
 <h3 id="filtre-de-documents"><span class="header-section-number">3.2.2</span> Filtre de documents</h3>
@@ -130,32 +136,34 @@
 <img src="./consultaval.png" alt="Formulari per a la sol·licitud d’assessorament a un especialista sobre un document." /><figcaption>Formulari per a la sol·licitud d’assessorament a un especialista sobre un document.</figcaption>
 </figure>
 <p>En la capseta de text podem expressar el dubte. La consulta es dirigirà per correu electrònic a un especialista en gestió de drets de propietat intel·lectual que intentarà resoldre-la en el més breu termini possible. la resposta es rebrà per correu electrònic. El mòdul GDPI no fa un seguiment d’aquest procés.</p>
-<h3 id="acció-tramitar"><span class="header-section-number">3.2.4</span> Acció “Tramitar”</h3>
-<p>El botó “Tramitar” permet iniciar la tramitació dels drets de propietat intel·lectual i condueix a un formulari una mica més complex.</p>
+<h3 id="acció-gestionar"><span class="header-section-number">3.2.4</span> Acció “Gestionar”</h3>
+<p>El botó “Gestionar” permet iniciar la tramitació dels drets de propietat intel·lectual i condueix a un formulari una mica més complex.</p>
 <p>El formulari ofereix una barra horitzontal de navegació a la zona superior. la zona principal de la pantalla es divideix en un visor PDF que facilita la seva identificació i possibilita la seva descàrrega i una zona amb els camps que ha de omplir l’usuari.</p>
 <figure>
 <img src="./formularioval.png" alt="Formulari de tramitació de drets d’un document." /><figcaption>Formulari de tramitació de drets d’un document.</figcaption>
 </figure>
 <p>S’ha de triar una opció de les que apareixen a la dreta de l’etiqueta “El document conté”. Amb elles es classifica el document en relació amb dues qüestions: - Es <strong>necessita autorització</strong> expressa del titular dels drets, si n’hi ha? - Es <strong>genera una obligació econòmica</strong> per a la universitat? - Són <strong>auditable per una entitat de gestió</strong> tant el contingut com les dades del fitxer?</p>
 <p>Estudiem detingudament cadascuna de les opcions:</p>
-<h4 id="opció-1-informació-administrativa-normativa-interna-llistats-de-notes"><span class="header-section-number">3.2.4.1</span> Opció 1: “Informació administrativa (normativa interna, llistats de notes …)”</h4>
+<h4 id="opción-1-no-és-una-obra-impresa-o-susceptible-de-ser-ho-fotografies-programari-dordinador-bases-de-dades"><span class="header-section-number">3.2.4.1</span> Opción 1: “No és una obra impresa o susceptible de ser-ho (fotografies, programari d’ordinador, bases de dades, …)”</h4>
+<p>El sistema ha suposat incorrectament que el fitxer conté una obra o un fragment d’una obra impresa o susceptible de ser-ho. Seleccionant aquesta opció el document es classifica como d’altra naturalesa.</p>
+<h4 id="opció-2-disposicions-legals-i-informació-administrativa-lleis-resolucions-normativa-interna-de-la-universitat-llistats-de-notes"><span class="header-section-number">3.2.4.2</span> Opció 2: “Disposicions legals i informació administrativa (lleis, resolucions, normativa interna de la universitat, llistats de notes …)”</h4>
 <p>Els documents de naturalesa administrativa (normatives d’assignatura, rúbriques d’avaluació, llistats amb els resultats d’avaluació d’estudiants, etcètera) es poden publicar sense necessitat d’obtenir cap autorització. Aquests documents són propis de la universitat i queden fora de l’àmbit de la gestió de drets de propietat intel·lectual. El contingut del document no pot ser consultat per les entitats de gestió com a part d’un procés d’auditoria, ja que pot contenir informació de caràcter personal.</p>
-<p>Si s’escull aquesta opció, no cal proporcionar dades descriptives del document. Feu clic al botó “Tramitar” per processar el document.</p>
-<h4 id="opció-2-una-obra-de-titularitat-del-professorat-de-la-universitat"><span class="header-section-number">3.2.4.2</span> Opció 2: “Una obra de titularitat del professorat de la universitat”</h4>
+<p>Si s’escull aquesta opció, no cal proporcionar dades descriptives del document. Feu clic al botó “Enviar” per processar el document.</p>
+<h4 id="opció-3-obra-lautoria-de-la-qual-és-del-professorat-de-la-universitat-i-aquest-no-ha-cedit-els-drets-dexplotació-a-un-tercer"><span class="header-section-number">3.2.4.3</span> Opció 3: “Obra l’autoria de la qual és del professorat de la universitat i aquest no ha cedit els drets d’explotació a un tercer”</h4>
 <p>Quan l’autor o autors són part del professorat de la universitat, han realitzat l’obra com a part del seu treball i no han cedit els drets de explotació a un tercer, el document es pot publicar a l’Aula Virtual i no es generen obligacions econòmiques per a la universitat.</p>
 <p>Aquest és el cas habitual dels butlletins de problemes, exàmens d’assignatura, apunts de classe, etcètera.</p>
-<p>Si s’escull aquesta opció, no cal proporcionar dades relatives al document. Feu clic al botó “Tramitar” per processar el document.</p>
+<p>Si s’escull aquesta opció, no cal proporcionar dades relatives al document. Feu clic al botó “Enviar” per processar el document.</p>
 <p>El contingut del document pot ser consultat per les entitats de gestió com a part d’un procés d’auditoria.</p>
-<h4 id="opció-3-una-obra-editada-pel-servei-de-publicacions-de-la-universitat"><span class="header-section-number">3.2.4.3</span> Opció 3: “Una obra editada pel servei de publicacions de la universitat”</h4>
+<h4 id="opció-4-una-obra-editada-pel-servei-de-publicacions-de-la-universitat"><span class="header-section-number">3.2.4.4</span> Opció 4: “Una obra editada pel servei de publicacions de la universitat”</h4>
 <p>Si l’obra ha estat publicada per la universitat i és cessionària dels drets d’explotació, no es requereix autorització per a la publicació a l’Aula Virtual. La reproducció no genera obligacions econòmiques per a la universitat.</p>
 <p>CRUE està treballant en la signatura d’un conveni que permeti a totes les universitats compartir els seus fons editorials. De moment, només es pot publicar sense autorització una obra del fons editorial de l’UJI.</p>
-<p>Si s’escull aquesta opció, no cal proporcionar dades relatives al document. Feu clic al botó “Tramitar” per processar el document.</p>
+<p>Si s’escull aquesta opció, no cal proporcionar dades relatives al document. Feu clic al botó “Enviar” per processar el document.</p>
 <p>El contingut del document pot ser consultat per les entitats de gestió com a part d’un procés d’auditoria.</p>
-<h4 id="opció-4-una-obres-de-domini-públic"><span class="header-section-number">3.2.4.4</span> Opció 4: “Una obres de domini públic”</h4>
+<h4 id="opció-5-una-obres-de-domini-públic"><span class="header-section-number">3.2.4.5</span> Opció 5: “Una obres de domini públic”</h4>
 <p>Les obres de domini públic es poden publicar sense autorització i el seu ús no genera obligacions econòmiques.</p>
-<p>Si s’escull aquesta opció, no cal proporcionar dades relatives al document. Feu clic al botó “Tramitar” per processar el document.</p>
+<p>Si s’escull aquesta opció, no cal proporcionar dades relatives al document. Feu clic al botó “Enviar” per processar el document.</p>
 <p>El contingut del document pot ser consultat per les entitats de gestió com a part d’un procés d’auditoria.</p>
-<h4 id="opció-5-un-fragment-duna-obra-capítol-de-llibre-article-o-extensió-no-superior-al-10"><span class="header-section-number">3.2.4.5</span> Opció 5: “Un fragment d’una obra (capítol de llibre, article o extensió no superior al 10%)”</h4>
+<h4 id="opció-6-un-fragment-duna-obra-capítol-de-llibre-article-o-extensió-no-superior-al-10"><span class="header-section-number">3.2.4.6</span> Opció 6: “Un fragment d’una obra (capítol de llibre, article o extensió no superior al 10%)”</h4>
 <p>Si el fragment té una entitat relativa (és un capítol de llibre, un article de revista o no excedeix el 10% del total de l’obra), aquesta opció obre un formulari amb camps que identifiquen aquest fragment.</p>
 <figure>
 <img src="./camposval.png" alt="Camps del formulari de tramitació de gestió de drets." /><figcaption>Camps del formulari de tramitació de gestió de drets.</figcaption>
@@ -164,7 +172,6 @@
 <li><strong>Títol</strong> (opcional): Nom que identifiqui l’obra o fragment de l’obra que s’està utilitzant.</li>
 <li><strong>Identificador de l’obra</strong> (requerit): Codi d’identificació de l’obra, si n’hi ha. Si l’obra disposa d’ISBN o ISSN, ha d’usar-aquest identificador. Alternativament, pot usar-se algun altre descriptor que permeti identificar l’obra utilitzada (DOI, URL, etcètera).</li>
 <li><strong>Autor/s</strong> (opcional): Nom de l’autor o autors.</li>
-<li><strong>Llicència</strong> (opcional): Tipus de llicència sota la qual s’ha publicat l’obra. És un camp opcional.</li>
 <li><strong>Editorial</strong> (opcional): Editorial que ha publicat l’obra.</li>
 <li><strong>Pàgines</strong>: nombre de pàgines del fragment utilitzat. Si l’obra no està paginada (es tracta d’un llibre electrònic, per exemple) convé indicar el percentatge del fragment respecte del total de l’obra.</li>
 <li><strong>Pàgines totals</strong>: Nombre total de pàgines de l’obra. Si l’obra no està paginada pot deixar-se en blanc.</li>
@@ -172,18 +179,33 @@
 <li><strong>Observacions</strong>: Camp de format lliure amb un comentari que acompanyarà el document.</li>
 </ul>
 <p>El fragment es pot publicar sense demanar autorització i l’obligació econòmica que genera el seu ús ha estat satisfeta en el marc del conveni celebrat entre CRUE i CEDRO-VEGAP. El contingut i dades del document poden ser consultats per les entitats de gestió com a part d’un procés d’auditoria.</p>
-<h4 id="opció-6-una-obra-de-la-qual-disposo-de-llicència-en-vigor"><span class="header-section-number">3.2.4.6</span> Opció 6: “Una obra de la qual disposo de llicència en vigor”</h4>
+<h4 id="opció-7-una-obraper-a-la-qual-dispose-de-llicència-en-vigor"><span class="header-section-number">3.2.4.7</span> Opció 7: “Una obraper a la qual dispose de llicència en vigor”</h4>
 <p>En escollir aquesta opció es desplega un formulari similar al de l’opció anterior. El formulari inclou dos camps addicionals:</p>
 <ul>
-<li><strong>Data de fi de llicència</strong>: Indicar la data d’expiració de la llicència. Permet que, si escau, l’ús del mateix document en edicions posteriors del curs no forci a una nova tramitació de la gestió de drets.</li>
+<li><strong>Data de fi de llicència</strong>: Indicar la data d’expiració de la llicència. Permet que, si escau, l’ús del mateix document en edicions posteriors del curs no forci a una nova tramitació de la gestió de drets. A la dreat apareix una casella per a marcar si la llicència és perpètua.</li>
 <li><strong>Llicència</strong>: Descripció de la llicència.</li>
 </ul>
 <p>Les obres amb llicències que no generen obligacions econòmiques per a usos no comercials caben en aquesta opció. És el cas de Creative Commons i altres llicències permissives.</p>
 <p>El contingut del document i les dades poden ser consultats per les entitats de gestió com a part d’un procés d’auditoria.</p>
-<h4 id="opció-7-altres-tramitació-de-llicència-amb-cost-econòmic"><span class="header-section-number">3.2.4.7</span> Opció 7: “Altres (tramitació de llicència amb cost econòmic)”</h4>
+<h4 id="opció-8-no-tinc-llicència-en-vigor-tramitació-de-llicència-amb-cost-econòmic"><span class="header-section-number">3.2.4.8</span> Opció 8: “No tinc llicència en vigor (tramitació de llicència amb cost econòmic)”</h4>
 <p>Aquesta opció s’ha d’escollir si el document no compta amb autorització per a la seva publicació i es disposa de crèdit pressupostari per adquirir una llicència.</p>
 <p>L’activitat que conté el document passarà a estar oculta fins que es dispose de la llicència. Una vegada s’haja adquirit la llicència es podrà tornar a tramitar la gestió de drets de propietat intel·lectual del document i mostrar-lo als estudiants del curs.</p>
 <p>El procés d’adquisició d’una llicència no és immediat. Pot assimilar-se al d’adquisició d’un llibre, per la qual cosa pot tardar dies, setmanes o mesos. La tramitació de la llicència <strong>no depèn únicament dels serveis de la universitat</strong>. Penseu en la conveniència d’adquirir exemplars de l’obra impresa o llibres electrònics a través de la Biblioteca abans de tramitar la llicència per a l’Aula Virtual.</p>
+<h1 id="canvis-entre-versions-del-mòdul"><span class="header-section-number">4</span> Canvis entre versions del mòdul</h1>
+<h2 id="canvis-respecte-de-la-versió-0.1"><span class="header-section-number">4.1</span> Canvis respecte de la versió 0.1</h2>
+<ul>
+<li>El botó “Tramitar” en la pàgina principal del mòdul s’ha renomenat com “Gestiona”.</li>
+<li>El botón “Tramitar” en el formulari de gestió de cada document s’ha renomenat como “Envia”.</li>
+<li>S’ha inclòs l’opció “No és una obra impresa o susceptible de ser-ho (fotografies, programmari d’ordinador, bases de dades, …)” del formulari de gestió d’un document i la seua documentació.</li>
+<li>S’ha modificat l’opció “Informació administrativa (normativa interna, llistats de notes…)”, que passa a ser “Disposicions legals i informació administrativa (lleis, resolucions, normativa interna de la universitat, llistats de notes…)”. Es va optar per modificar una opció existent i no per afegir una nova per tal de no complicar més la interfície.</li>
+<li>Modificat el texte de l’opció “Una obra de titularitat del professorat de la universitat” per “Obra l’autoria de la qual és del professorat de la universitat i aquest no ha cedit els drets d’explotació a un tercer”.</li>
+<li>Modificat el texte de l’opció “Altres (tramitació de llicència amb cost econòmic)” per “No tinc llicència en vigor (tramitació de llicència amb cost econòmic)”.</li>
+<li>S’ha afegit al formulari de gestió una casella per indicar si una llicència és perpètua.</li>
+<li>El filtre de documents de la pàgina principal inclou una nova opció “No és una obra impresa o susceptible de ser-ho”.</li>
+<li>La pàgina principal inclou un camp “Creat” amb la data de creació de cada fitxer.</li>
+<li>És possible ordenar els fitxers per qualsevol dels camps. També es poden mostrar o ocultar els camps a voluntat.</li>
+<li>Es poden restablir les preferències de la taula, de manera que torne a mostrar-se amb la seua configuració per defecte.</li>
+</ul>
 <section class="footnotes">
 <hr />
 <ol>

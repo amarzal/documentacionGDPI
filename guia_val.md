@@ -1,6 +1,7 @@
 ---
 title: "Mòdul de Gestió de Drets de Propietat Intel·lectual per a l'Aula Virtual"
 author: 'Universitat Jaume I'
+date: Versió 0.2
 titlepage: true
 lang: ca-ES
 ---
@@ -223,13 +224,16 @@ la relació de documents que es mostren en el mateix.
 
 El llistat presenta tres columnes:
 
+- **Creat**: Data de creació del fitxer.
 - **Fitxer**: Nom del fitxer. Prement en ell s'accedeix al document per a la seua descàrrega.
 - **Ocult**: Indica si el fitxer és accessible pels estudiants en aquest moment.
 - **Estat**: Mostra l'estat de tramitació de la gestió de drets de propietat intel·lectual.
 
+El llistat es pot ordenar per qualsevol ascendement i descendement per qualsevol dels camps. Els camps es poden mostrar o ocultar a voluntat.
+
 És possible efectuar dues accions per a cada document:
 
-- **Tramitar**: Dirigeix al formulari de gestió de drets del document.
+- **Gestionar**: Dirigeix al formulari de gestió de drets del document.
 - **Mira**: Dirigeix una sol·licitud d'assessorament a personal especialista en gestió de drets de propietat intel·lectual per resoldre dubtes relatius al fitxer.
 
 ### Filtre de documents
@@ -264,9 +268,9 @@ intel·lectual que intentarà resoldre-la en el més breu termini possible. la
 resposta es rebrà per correu electrònic. El mòdul GDPI no fa un seguiment
 d'aquest procés.
 
-### Acció "Tramitar"
+### Acció "Gestionar"
 
-El botó "Tramitar" permet iniciar la tramitació dels drets de propietat
+El botó "Gestionar" permet iniciar la tramitació dels drets de propietat
 intel·lectual i condueix a un formulari una mica més complex.
 
 El formulari ofereix una barra horitzontal de navegació a la zona superior. la
@@ -284,7 +288,11 @@ document conté". Amb elles es classifica el document en relació amb dues qües
 
 Estudiem detingudament cadascuna de les opcions:
 
-#### Opció 1: "Informació administrativa (normativa interna, llistats de notes ...)"
+#### Opción 1: "No és una obra impresa o susceptible de ser-ho (fotografies, programari d'ordinador, bases de dades, ...) "
+
+El sistema ha suposat incorrectament que el fitxer conté una obra o un fragment d'una obra impresa o susceptible de ser-ho. Seleccionant aquesta opció el document es classifica como d'altra naturalesa.
+
+#### Opció 2: "Disposicions legals i informació administrativa (lleis, resolucions, normativa interna de la universitat, llistats de notes ...)"
 
 Els documents de naturalesa administrativa (normatives d'assignatura, rúbriques
 d'avaluació, llistats amb els resultats d'avaluació d'estudiants, etcètera) es
@@ -295,10 +303,10 @@ entitats de gestió com a part d'un procés d'auditoria, ja que pot contenir
 informació de caràcter personal.
 
 Si s'escull aquesta opció, no cal proporcionar dades descriptives del document.
-Feu clic al botó "Tramitar" per processar el document.
+Feu clic al botó "Enviar" per processar el document.
 
 
-#### Opció 2: "Una obra de titularitat del professorat de la universitat"
+#### Opció 3: "Obra l'autoria de la qual és del professorat de la universitat i aquest no ha cedit els drets d'explotació a un tercer"
 
 Quan l'autor o autors són part del professorat de la universitat, han
 realitzat l'obra com a part del seu treball i no han cedit els drets de
@@ -309,11 +317,11 @@ Aquest és el cas habitual dels butlletins de problemes, exàmens d'assignatura,
 apunts de classe, etcètera.
 
 Si s'escull aquesta opció, no cal proporcionar dades relatives al
-document. Feu clic al botó "Tramitar" per processar el document.
+document. Feu clic al botó "Enviar" per processar el document.
 
 El contingut del document pot ser consultat per les entitats de gestió com a part d'un procés d'auditoria.
 
-#### Opció 3: "Una obra editada pel servei de publicacions de la universitat"
+#### Opció 4: "Una obra editada pel servei de publicacions de la universitat"
 
 Si l'obra ha estat publicada per la universitat i és cessionària dels drets
 d'explotació, no es requereix autorització per a la publicació a l'Aula
@@ -324,21 +332,21 @@ universitats compartir els seus fons editorials. De moment, només es pot
 publicar sense autorització una obra del fons editorial de l'UJI.
 
 Si s'escull aquesta opció, no cal proporcionar dades relatives al
-document. Feu clic al botó "Tramitar" per processar el document.
+document. Feu clic al botó "Enviar" per processar el document.
 
 El contingut del document pot ser consultat per les entitats de gestió com a part d'un procés d'auditoria.
 
-#### Opció 4: "Una obres de domini públic"
+#### Opció 5: "Una obres de domini públic"
 
 Les obres de domini públic es poden publicar sense autorització i el seu ús no
 genera obligacions econòmiques.
 
 Si s'escull aquesta opció, no cal proporcionar dades relatives al
-document. Feu clic al botó "Tramitar" per processar el document.
+document. Feu clic al botó "Enviar" per processar el document.
 
 El contingut del document pot ser consultat per les entitats de gestió com a part d'un procés d'auditoria.
 
-#### Opció 5: "Un fragment d'una obra (capítol de llibre, article o extensió no superior al 10%)"
+#### Opció 6: "Un fragment d'una obra (capítol de llibre, article o extensió no superior al 10%)"
 
 Si el fragment té una entitat relativa (és un capítol de llibre, un article de
 revista o no excedeix el 10% del total de l'obra), aquesta opció obre un
@@ -349,7 +357,6 @@ formulari amb camps que identifiquen aquest fragment.
 - **Títol** (opcional): Nom que identifiqui l'obra o fragment de l'obra que s'està utilitzant.
 - **Identificador de l'obra** (requerit): Codi d'identificació de l'obra, si n'hi ha. Si l'obra disposa d'ISBN o ISSN, ha d'usar-aquest identificador. Alternativament, pot usar-se algun altre descriptor que permeti identificar l'obra utilitzada (DOI, URL, etcètera).
 - **Autor/s** (opcional): Nom de l'autor o autors.
-- **Llicència** (opcional): Tipus de llicència sota la qual s'ha publicat l'obra. És un camp opcional.
 - **Editorial** (opcional): Editorial que ha publicat l'obra.
 - **Pàgines**: nombre de pàgines del fragment utilitzat. Si l'obra no està paginada (es tracta d'un llibre electrònic, per exemple) convé indicar el percentatge del fragment respecte del total de l'obra.
 - **Pàgines totals**: Nombre total de pàgines de l'obra. Si l'obra no està paginada pot deixar-se en blanc.
@@ -361,11 +368,11 @@ que genera el seu ús ha estat satisfeta en el marc del conveni celebrat entre
 CRUE i CEDRO-VEGAP. El contingut i dades del document poden ser consultats per
 les entitats de gestió com a part d'un procés d'auditoria.
 
-#### Opció 6: "Una obra de la qual disposo de llicència en vigor"
+#### Opció 7: "Una obraper a la qual dispose de llicència en vigor"
 
 En escollir aquesta opció es desplega un formulari similar al de l'opció anterior. El formulari inclou dos camps addicionals:
 
-- **Data de fi de llicència**: Indicar la data d'expiració de la llicència. Permet que, si escau, l'ús del mateix document en edicions posteriors del curs no forci a una nova tramitació de la gestió de drets.
+- **Data de fi de llicència**: Indicar la data d'expiració de la llicència. Permet que, si escau, l'ús del mateix document en edicions posteriors del curs no forci a una nova tramitació de la gestió de drets. A la dreat apareix una casella per a marcar si la llicència és perpètua.
 - **Llicència**: Descripció de la llicència.
 
 Les obres amb llicències que no generen obligacions econòmiques per a usos no
@@ -376,7 +383,7 @@ El contingut del document i les dades poden ser consultats per les entitats de
 gestió com a part d'un procés d'auditoria.
 
 
-#### Opció 7: "Altres (tramitació de llicència amb cost econòmic)"
+#### Opció 8: "No tinc llicència en vigor (tramitació de llicència amb cost econòmic)"
 
 Aquesta opció s'ha d'escollir si el document no compta amb autorització per a la seva
 publicació i es disposa de crèdit pressupostari per adquirir una llicència.
@@ -392,3 +399,19 @@ La tramitació de la llicència **no depèn únicament dels serveis de la
 universitat**. Penseu en la conveniència d'adquirir exemplars de l'obra impresa
 o llibres electrònics a través de la Biblioteca abans de tramitar la llicència
 per a l'Aula Virtual.
+
+# Canvis entre versions del mòdul
+
+## Canvis respecte de la versió 0.1
+
+- El botó "Tramitar" en la pàgina principal del mòdul s'ha renomenat com "Gestiona".
+- El botón "Tramitar" en el formulari de gestió de cada document s'ha renomenat como "Envia".
+- S'ha inclòs l'opció "No és una obra impresa o susceptible de ser-ho (fotografies, programmari d'ordinador, bases de dades, ...)" del formulari de gestió d'un document i la seua documentació.
+- S'ha modificat l'opció "Informació administrativa (normativa interna, llistats de notes...)", que passa a ser "Disposicions legals i informació administrativa (lleis, resolucions, normativa interna de la universitat, llistats de notes...)". Es va optar per modificar una opció existent i no per afegir una nova per tal de no complicar més la interfície.
+- Modificat el texte de l'opció "Una obra de titularitat del professorat de la universitat" per "Obra l'autoria de la qual és del professorat de la universitat i aquest no ha cedit els drets d'explotació a un tercer".
+- Modificat el texte de l'opció "Altres (tramitació de llicència amb cost econòmic)" per "No tinc llicència en vigor (tramitació de llicència amb cost econòmic)".
+- S'ha afegit al formulari de gestió una casella per indicar si una llicència és perpètua.
+- El filtre de documents de la pàgina principal inclou una nova opció "No és una obra impresa o susceptible de ser-ho".
+- La pàgina principal inclou un camp "Creat" amb la data de creació de cada fitxer.
+- És possible ordenar els fitxers per qualsevol dels camps. També es poden mostrar o ocultar els camps a voluntat.
+- Es poden restablir les preferències de la taula, de manera que torne a mostrar-se amb la seua configuració per defecte.

@@ -1,6 +1,7 @@
 ---
 title: 'Módulo de Gestión de Derechos de Propiedad Intelectual para el Aula Virtual'
 author: 'Universitat Jaume I'
+date: Versión 0.2
 titlepage: true
 logo: "marca-uji-color.pdf"
 lang: es-ES
@@ -234,13 +235,16 @@ filtrar la relación de documentos que se muestran en el mismo.
 
 El listado presenta tres columnas:
 
-- **Fichero**: Nombre del fichero. Pinchando en él se accede al documento para su descarga.
-- **Oculto**: Indica si el fichero es accesible por los estudiantes en este momento.
+- **Creado**: Fecha de creación del documento.
+- **Fichero**: Nombre del documento. Pinchando en él se accede al documento para su descarga.
+- **Oculto**: Indica si el documento es accesible por los estudiantes en este momento.
 - **Estado**: Muestra el estado de tramitación de la gestión de derechos de propiedad intelectual.
+
+El listado se puede ordenar ascendente y descendentemente por cualquiera de los campos. Los campos se pueden ocultar o mostrar a voluntad.
 
 Es posible efectuar dos acciones para cada documento:
 
-- **Tramitar**: Dirige al formulario de gestión de derechos del documento.
+- **Gestionar**: Dirige al formulario de gestión de derechos del documento.
 - **Consulta**: Dirige una solicitud de asesoramiento a personal especialista en gestión de derechos  de propiedad intelectual para resolver dudas relativas al fichero.
 
 ### Filtro de documentos
@@ -277,9 +281,9 @@ intelectual que tratará de resolverla en el más breve plazo posible. La
 respuesta se recibirá por correo electrónico. El módulo GDPI no hace un
 seguimiento de este proceso.
 
-### Acción "Tramitar"
+### Acción "Gestionar"
 
-El botón "Tramitar" permite iniciar la tramitación de los derechos de propiedad
+El botón "Gestionar" permite iniciar la tramitación de los derechos de propiedad
 intelectual y conduce a un formulario algo más complejo.
 
 El formulario ofrece una barra horizontal de navegación en la zona superior. La
@@ -298,7 +302,11 @@ documento contiene". Con ellas se resuelven varias cuestiones:
 
 Estudiemos detenidamente cada una de las opciones:
 
-#### Opción 1: "Información administrativa (normativa interna, listados de notas...)"
+#### Opción 1: "No es una obra impresa o susceptible de serlo (fotografías, código de ordenador, base de datos, ...)"
+
+El sistema ha supuesto incorrectamente que el fichero contiene una obra o un fragmento de un obra impresa o susceptible de serlo. Seleccionando esta opción el documento se clasifica como de otra naturaleza.
+
+#### Opción 2: "Disposiciones legales e información administrativa (leyes, resoluciones, normativa interna de la universidad, listados de notas...)"
 
 Los documentos de naturaleza administrativa (normativas de asignatura, rúbricas
 de evaluación, listados con los resultados de evaluación de estudiantes,
@@ -309,9 +317,9 @@ puede ser consultado por las entidades de gestión como parte de un proceso de
 auditoría, pues puede contener información de carácter personal.
 
 Si se escoge esta opción, no es necesario proporcionar datos descriptivos del
-documento. Pulse el botón "Tramitar" para procesar el documento.
+documento. Pulse el botón "Enviar" para procesar el documento.
 
-#### Opción 2: "Una obra de titularidad del profesorado de la universidad"
+#### Opción 3: "Obra cuya autoría es de profesorado de la universidad y no ha cedido los derechos de explotación a un tercero"
 
 Cuando el autor o autores son parte del profesorado de la universidad, han
 realizado la obra como parte de su trabajo y no han cedido los derechos de
@@ -325,10 +333,10 @@ El contenido del documento puede ser consultado por las entidades de gestión
 como parte de un proceso de auditoría.
 
 Si se escoge esta opción, no es necesario proporcionar datos relativos al
-documento. Pulse el botón "Tramitar" para procesar el documento.
+documento. Pulse el botón "Enviar" para procesar el documento.
 
 
-#### Opción 3: "Una obra editada por el servicio de publicaciones de la universidad"
+#### Opción 4: "Una obra editada por el servicio de publicaciones de la universidad"
 
 Si la obra ha sido publicada por la universidad y es cesionaria de los derechos
 de explotación, no se requiere autorización para la publicación en el Aula
@@ -339,21 +347,21 @@ universidades compartir sus fondos editoriales. De momento, solo se puede
 publicar sin autorización una obra del fondo editorial de la UJI.
 
 Si se escoge esta opción, no es necesario proporcionar datos relativos al
-documento. Pulse el botón "Tramitar" para procesar el documento.
+documento. Pulse el botón "Enviar" para procesar el documento.
 
 El contenido del documento puede ser consultado por las entidades de gestión como parte de un proceso de auditoría.
 
-#### Opción 4: "Una obras de dominio público"
+#### Opción 5: "Una obra de dominio público"
 
 Las obras de dominio público se pueden publicar sin autorización y su uso no
 genera obligaciones económicas.
 
 Si se escoge esta opción, no es necesario proporcionar datos relativos al
-documento. Pulse el botón "Tramitar" para procesar el documento.
+documento. Pulse el botón "Enviar" para procesar el documento.
 
 El contenido del documento puede ser consultado por las entidades de gestión como parte de un proceso de auditoría.
 
-#### Opción 5: "Un fragmento de una obra (capítulo de libro, artículo o extensión no superior al 10%)"
+#### Opción 6: "Un fragmento de una obra (capítulo de libro, artículo o extensión no superior al 10%)"
 
 Si el fragmento tiene una entidad relativa (es un capítulo de libro, un
 artículo de revista o no excede el 10% del total de la obra), esta opción abre
@@ -364,11 +372,10 @@ un formulario con campos que identifican dicho fragmento.
 - **Título** (opcional): Nombre que identifique la obra o fragmento de la obra que se está utilizando.
 - **Identificador de la obra** (requerido): Código de identificación de la obra, si lo hay. Si la obra dispone de ISBN o ISSN, debe usarse este identificador. Alternativamente, puede usarse algún otro descriptor que permita identificar la obra utilizada (DOI, URL, etcétera).
 - **Autor/es** (opcional): Nombre del autor o autores.
-- **Licencia** (opcional): Tipo de licencia bajo la que se ha publicado la obra. Es un campo opcional.
 - **Editorial** (opcional): Editorial que ha publicado la obra.
 - **Páginas**: número de páginas del fragmento utilizado. Si la obra no está paginada (se trata de un libro electrónico, por ejemplo) conviene indicar el porcentaje del fragmento respecto del total de la obra.
 - **Páginas totales**: Número total de páginas de la obra. Si la obra no está paginada puede dejarse en blanco.
-- **Numero de matriculados**: El número de matriculados se genera automáticamente a partir del número de inscritos en el curso. Dado que este número puede variar en el tiempo o ser incorrecto en el momento de publicación del documento, su valor puede editarse manualmente para que refleje la realidad a partir de la experiencia del profesorado en ediciones anteriores del curso (aunque sea de manera aproximada).
+- **Número de matriculados**: El número de matriculados se genera automáticamente a partir del número de inscritos en el curso. Dado que este número puede variar en el tiempo o ser incorrecto en el momento de publicación del documento, su valor puede editarse manualmente para que refleje la realidad a partir de la experiencia del profesorado en ediciones anteriores del curso (aunque sea de manera aproximada).
 - **Observaciones**: Campo de formato libre con un comentario que acompañará al documento.
 
 El fragmento se puede publicar sin solicitar autorización y la obligación
@@ -376,11 +383,11 @@ económica que genera su uso ha sido satisfecha en el marco del convenio
 celebrado entre CRUE y CEDRO-VEGAP. El contenido y datos del documento pueden ser
 consultados por las entidades de gestión como parte de un proceso de auditoría.
 
-#### Opción 6: "Una obra de la que dispongo de licencia en vigor"
+#### Opción 7: "Una obra de la que dispongo de licencia en vigor"
 
 Al escoger esta opción se despliega un formulario similar al de la opción anterior. El formulario incluye dos campos adicionales:
 
-- **Fecha de fin de licencia**: Indicar la fecha de expiración de la licencia. Permite que, si procede, el uso del mismo documento en ediciones posteriores del curso no fuerce a una nueva tramitación de la gestión de derechos.
+- **Fecha de fin de licencia**: Indicar la fecha de expiración de la licencia. Permite que, si procede, el uso del mismo documento en ediciones posteriores del curso no fuerce a una nueva tramitación de la gestión de derechos. A la derecha aparece una casilla para marcar si la licencia es perpetua.
 - **Licencia**: Descripción de la licencia.
 
 Las obras con licencias que no generan obligaciones económicas para usos no
@@ -390,7 +397,7 @@ licencias permisivas.
 El contenido del documento y los datos pueden ser consultados por las entidades de gestión como parte de un proceso de auditoría.
 
 
-#### Opción 7: "Otros (tramitación de licencia con coste económico)"
+#### Opción 8: "No tengo licencia en vigor (tramitación de licencia con coste económico)    "
 
 Esta opción se debe escoger si el documento no cuenta con autorización para su
 publicación y se dispone de crédito presupuestario para adquirir una licencia.
@@ -407,3 +414,18 @@ universidad**. Considere la conveniencia de adquirir ejemplares de la obra
 impresa o libros electónicos a través de la Biblioteca antes de tramitar la
 licencia para el Aula Virtual.
 
+# Cambios entre versiones del módulo
+
+## Cambios respecto de la versión 0.1
+
+- El botón "Tramitar" en la página principal del módulo se ha renombrado como "Gestionar".
+- El botón "Tramitar" en el formulario de gestión de cada documento se ha renombrado como "Enviar".
+- Se ha incluído la opción "No es una obra impresa o susceptible de serlo (fotografías, código de ordenador, base de datos, ...)" del formulario de gestión de un documento y su documentación.
+- Se ha modificado la opción "Información administrativa (normativa interna, listados de notas...)", que pasa a ser "Disposiciones legales e información administrativa (leyes, resoluciones, normativa interna de la universidad, listados de notas...)". Se optó por modificar una opción existente y no por añadir una nueva para no complicar más la interfaz.
+- Modificado el texto de la opción "Una obra de titularidad del profesorado de la universidad" por "Obra cuya autoría es de profesorado de la universidad y no han cedido los derechos de explotación a un tercero".
+- Modificado el texto de la opción "Otros (tramitación de licencia con coste económico)" por "No tengo licencia en vigor (tramitación de licencia con coste económico)".
+- Se ha añadido al formulario de gestión una casilla para indicar si una licencia es perpetua.
+- El filtro de documentos de la página principal incluye una nueva opción: "No és una obra impresa o susceptible de serlo".
+- La página principal incluye un campo "Creado" con la fecha de creación de cada fichero.
+- Es posible ordenar los ficheros por cualquiera de los campos. También se pueden mostrar u ocultar los campos a voluntad.
+- Se pueden restablecer las preferencias de la tabla, de modo que vuelva a mostrarse con su configuración por defecto.
