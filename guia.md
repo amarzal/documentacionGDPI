@@ -18,7 +18,7 @@ Propiedad Intelectual (GDPI) integrado en el Aula Virtual de la Universitat
 Jaume I.
 
 Únicamente consideramos obras impresas o susceptibles de serlo (en adelante,
-"obras impresas") y obras plásticas aisladas. No consideramos otro tipo de
+"obras impresas"). No consideramos otro tipo de
 obras (audiovisuales, música...) porque:
 
 - el [**Texto Refundido de la Ley de Propiedad
@@ -235,7 +235,8 @@ filtrar la relación de documentos que se muestran en el mismo.
 
 El listado presenta tres columnas:
 
-- **Creado**: Fecha de creación del documento.
+- **Selección de ficheros**: Es una casilla que permite seleccionar ficheros individualmente para realizar acciones masivas.
+- **Fecha de subida**: Fecha de creación del documento.
 - **Fichero**: Nombre del documento. Pinchando en él se accede al documento para su descarga.
 - **Oculto**: Indica si el documento es accesible por los estudiantes en este momento.
 - **Estado**: Muestra el estado de tramitación de la gestión de derechos de propiedad intelectual.
@@ -245,7 +246,21 @@ El listado se puede ordenar ascendente y descendentemente por cualquiera de los 
 Es posible efectuar dos acciones para cada documento:
 
 - **Gestionar**: Dirige al formulario de gestión de derechos del documento.
-- **Consulta**: Dirige una solicitud de asesoramiento a personal especialista en gestión de derechos  de propiedad intelectual para resolver dudas relativas al fichero.
+- **Consultar**: Dirige una solicitud de asesoramiento a personal especialista en gestión de derechos  de propiedad intelectual para resolver dudas relativas al fichero.
+
+### Acciones masivas
+
+Esta opción permite realizar la tramitación de más de un fichero a la vez.
+
+Las opciones de tramitación disponibles son:
+
+- **Obra no impresa o susceptible de serlo**
+- **Disposiciones legales e información administrativa**
+- **Obra titularidad del profesorado sin cesión de derechos de explotación**
+- **Obra editada por el servicio de publicaciones de la universidad**
+- **Obra de dominio público**
+
+Consulte el apartado Formulario de tramitación de derechos de un documento para una descripción detallada de estas opciones.
 
 ### Filtro de documentos
 
@@ -259,15 +274,23 @@ La **primera opción** del filtro permite seleccionar:
 - solo los documentos que permanecen *ocultos* para los estudiantes (recuerde que los documentos para los que no se ha hecho gestión alguna pasan a este estado en un determinado plazo de tiempo),
 - o solo los *visibles* para los estudiantes.
 
-
 La **segunda opción** del filtro selecciona los documentos en función del estado
 de tramitación :
 
 - *Sin tramitar*: ficheros que tienen pendiente la tramitación de la gestión de derechos de propiedad intelectual.
 - *En tramitación*: Se ha iniciado un procedo de tramitación de adquisición de una licencia que aún no ha concluido.
-- *Autorizado*: ficheros de los que se completado con éxito la tramitación y pueden publicarse en el Aula Virtual.
 - *No autorizado*: ficheros para los que se ha resuelto que no es posible efectuar la publicación en el Aula Virtual.
+- *Autorizado*: ficheros de los que se completado con éxito la tramitación y pueden publicarse en el Aula Virtual.
+- *No es una obra impresa o susceptible de serlo**: ficheros que tramitamos como obras no susceptible de ser impresas. Por ejemplo, programas de ordenador, bases de datos, etc.
 
+La **tercera opción** del filtro selecciona los documentos en función del nombre del fichero. Permite el uso de wildcards (* y ?) para consultas algo más complejas. Por ejemplo:
+
+- *Ficher con nombre apuntes.pdf*: apuntes.pdf
+- *Ficheros con extensión .zip*: *.zip
+
+La **cuarta opción** permite seleccionar la cantidad de ficheros por página a mostrar. De esta manera podemos reducir la paginación.
+
+La **quinta opción** permite seleccionar los ficheros por la ubicación (la sección) de los mismos en el curso.
 
 ### Acción "Consulta"
 
@@ -426,6 +449,9 @@ licencia para el Aula Virtual.
 - Modificado el texto de la opción "Otros (tramitación de licencia con coste económico)" por "No tengo licencia en vigor (tramitación de licencia con coste económico)".
 - Se ha añadido al formulario de gestión una casilla para indicar si una licencia es perpetua.
 - El filtro de documentos de la página principal incluye una nueva opción: "No és una obra impresa o susceptible de serlo".
-- La página principal incluye un campo "Creado" con la fecha de creación de cada fichero.
+- La página principal incluye un campo "Fecha de subida" con la fecha de creación de cada fichero.
 - Es posible ordenar los ficheros por cualquiera de los campos. También se pueden mostrar u ocultar los campos a voluntad.
 - Se pueden restablecer las preferencias de la tabla, de modo que vuelva a mostrarse con su configuración por defecto.
+- Añadido filtro por nombre de fichero en la Tabla de tramitación.
+- Añadido filtro de número de ficheros por página en Tabla de tramitación.
+- Añadido filtro por sección de la Tabla de tramitación.
