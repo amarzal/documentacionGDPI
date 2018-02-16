@@ -16,8 +16,7 @@ La segona part d'aquesta guia descriu el mòdul de Gestió de Drets de Propietat
 Intel·lectual (GDPI) integrat a l'Aula Virtual de la Universitat Jaume I.
 
 Únicament considerem obres impreses o susceptibles de ser-ho (d'ara endavant,
-"obres impreses") i obres plàstiques aïllades. No considerem altre tipus
-d'obres (audiovisuals, música ...) perquè:
+"obres impreses"). No considerem altre tipus d'obres (audiovisuals, música ...) perquè:
 
 - el [**Text refós de la Llei de Propietat Intel·lectual
 (TRLPI)**](https://www.boe.es/buscar/act.php?id=BOE-A-1996-8930) dóna un
@@ -57,7 +56,7 @@ etcètera.
 
 # Drets i deures respecte de la publicació a l'Aula Virtual d'obres protegides
 
-El Text Refís de la Llei de Propietat Intel·lectual determina els drets de
+El Text Refós de la Llei de Propietat Intel·lectual determina els drets de
 l'autor d'obres literàries, artístiques o científiques. L'autor té el dret
 exclusiu a l'explotació de la seua obra en qualsevol forma (article 2 del
 TRLPI) i pot transmetre'l per escrit (Article 45) a altres persones físiques o
@@ -224,17 +223,31 @@ la relació de documents que es mostren en el mateix.
 
 El llistat presenta tres columnes:
 
-- **Creat**: Data de creació del fitxer.
+- **Selecció de fitxers**: És una casella que permeteix sel·leccionar fitxers individuals per a fer accions en massa.
+- **Data de pujada**: Data de creació del fitxer.
 - **Fitxer**: Nom del fitxer. Prement en ell s'accedeix al document per a la seua descàrrega.
-- **Ocult**: Indica si el fitxer és accessible pels estudiants en aquest moment.
+- **Visible**: Indica si el fitxer és accessible pels estudiants en aquest moment.
 - **Estat**: Mostra l'estat de tramitació de la gestió de drets de propietat intel·lectual.
 
 El llistat es pot ordenar per qualsevol ascendement i descendement per qualsevol dels camps. Els camps es poden mostrar o ocultar a voluntat.
 
 És possible efectuar dues accions per a cada document:
 
-- **Gestionar**: Dirigeix al formulari de gestió de drets del document.
-- **Mira**: Dirigeix una sol·licitud d'assessorament a personal especialista en gestió de drets de propietat intel·lectual per resoldre dubtes relatius al fitxer.
+- **Gestiona**: Dirigeix al formulari de tramitació de drets del document.
+- **Consulta**: Dirigeix una sol·licitud d'assessorament a personal especialista en gestió de drets de propietat intel·lectual per resoldre dubtes relatius al fitxer.
+
+### Accions en massa
+
+Donat el gran nombre de fitxers que poden contindre els cursos, aquesta opció permet tramitar més d'un fitxer a la vegada.
+Les opcions de tramitació són les següents:
+
+- **Obra no impresa o susceptible de ser-ho**
+- **Disposicions legals i informació administrativa**
+- **Obra titularitat del professorat sense cessió de drets d'explotació**
+- **Obra editada pel servei de publicacions de la universitat**
+- **Obra de domini públic**
+
+Consulteu l'apartat Formulari de tramitació de drets d'un document per a una descripció detallada d'aquestes opcions.
 
 ### Filtre de documents
 
@@ -252,9 +265,20 @@ La **segona opció** del filtre selecciona els documents en funció de l'estat
 de tramitació:
 
 - *Sense tramitar*: fitxers que tenen pendent la tramitació de la gestió de drets de propietat intel·lectual.
-- *En tramitació*: S'ha iniciat un procediment de tramitació d'adquisició de llicència que encara no s'ha conclòs.
-- *Autoritzat*: fitxers dels quals es completat amb èxit la tramitació i poden publicar-se en l'Aula Virtual.
+- *En tramitació*: s'ha iniciat un procediment de tramitació d'adquisició de llicència que encara no s'ha conclòs.
 - *No autoritzat*: fitxers per als que s'ha resolt que no és possible efectuar la publicació a l'Aula Virtual.
+- *Autoritzat*: fitxers dels quals es completat amb èxit la tramitació i poden publicar-se en l'Aula Virtual.
+- *No és una obra impresa o susceptible de ser-ho*: fitxers que tramitem com a obres no susceptible de ser impreses. Per exemple, programari d'ordinador, bases de dades, etc.
+
+La **tercera opció** del filtre selecciona els documents en funció del nom del fitxer. Permet l'ús de wildcards (* i ?) 
+per a consultes més complexes. Per exemple:
+
+- *Fitxer amb nom apuntes.pdf*: apuntes.pdf
+- *Fitxers amb extensió .zip*: *.zip
+
+La **quarta opció** permet seleccionar la quantitat de fitxers per pàgina a mostrar. D'aquesta manera podem reduïr la paginació.
+
+La **quinta opció** permet seleccionar els fitxers per la ubicació (la secció) dels mateixos al curs.
 
 ### Acció "Consulta"
 
@@ -412,6 +436,9 @@ per a l'Aula Virtual.
 - Modificat el texte de l'opció "Altres (tramitació de llicència amb cost econòmic)" per "No tinc llicència en vigor (tramitació de llicència amb cost econòmic)".
 - S'ha afegit al formulari de gestió una casella per indicar si una llicència és perpètua.
 - El filtre de documents de la pàgina principal inclou una nova opció "No és una obra impresa o susceptible de ser-ho".
-- La pàgina principal inclou un camp "Creat" amb la data de creació de cada fitxer.
-- És possible ordenar els fitxers per qualsevol dels camps. També es poden mostrar o ocultar els camps a voluntat.
+- La pàgina principal inclou un camp "Data de pujada" amb la data de creació de cada fitxer.
+- És possible ordenar els fitxers per qualsevol dels camps.
 - Es poden restablir les preferències de la taula, de manera que torne a mostrar-se amb la seua configuració per defecte.
+- Afegit filtre per nom de fitxer en la Taula de tramitació.
+- Afegit nombre de fitxers per pàgina en la Taula de tramitació.
+- Afegit filtre per secció en la Taula de tramitació.
