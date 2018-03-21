@@ -315,7 +315,7 @@ Estudiem detingudament cadascuna de les opcions:
 
 El sistema ha suposat incorrectament que el fitxer conté una obra o un fragment d'una obra impresa o susceptible de ser-ho. Seleccionant aquesta opció el document es classifica como d'altra naturalesa.
 
-El fitxer és o conté exclusivament, per exemple, una fotografia, una base de dades, un programa d’ordinador, etc. Són obres textuals protegides (i per tant clasificables en les altres opcions del formulari) els llibres, revistes, periòdics i partitures musicals.
+El fitxer és o conté exclusivament, per exemple, una fotografia, una base de dades, un programa d’ordinador, etc. Són obres textuals protegides (i per tant classificables en les altres opcions del formulari) els llibres, revistes, periòdics i partitures musicals.
 
 #### Opció 2: "Conté informació administrativa o disposicions legals"
 
