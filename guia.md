@@ -1,7 +1,7 @@
 ---
 title: 'Módulo de Gestión de Derechos de Propiedad Intelectual para el Aula Virtual'
 author: 'Universitat Jaume I'
-date: Versión 0.2
+date: Versión 0.3
 titlepage: true
 logo: "marca-uji-color.pdf"
 lang: es-ES
@@ -254,10 +254,10 @@ Esta opción permite realizar la tramitación de más de un fichero a la vez.
 
 Las opciones de tramitación disponibles son:
 
-- **Obra no impresa o susceptible de serlo**
-- **Disposiciones legales e información administrativa**
-- **Obra titularidad del profesorado sin cesión de derechos de explotación**
-- **Obra editada por el servicio de publicaciones de la universidad**
+- **No es una obra textual protegida ni contiene fragmentos de obras textuales protegidas**
+- **Contiene información administrativa o disposiciones legales**
+- **Obra titularidad del profesorado de este curso sin cesión de derechos de explotación a terceros**
+- **Obra editada por el servicio de publicaciones de esta universidad**
 - **Obra de dominio público**
 
 Consulte el apartado Formulario de tramitación de derechos de un documento para una descripción detallada de estas opciones.
@@ -281,7 +281,7 @@ de tramitación :
 - *En tramitación*: Se ha iniciado un procedo de tramitación de adquisición de una licencia que aún no ha concluido.
 - *No autorizado*: ficheros para los que se ha resuelto que no es posible efectuar la publicación en el Aula Virtual.
 - *Autorizado*: ficheros de los que se completado con éxito la tramitación y pueden publicarse en el Aula Virtual.
-- *No es una obra impresa o susceptible de serlo**: ficheros que tramitamos como obras no susceptible de ser impresas. Por ejemplo, programas de ordenador, bases de datos, etc.
+- *No es una obra textual protegida ni contiene fragmentos de obras textuales protegidas*: ficheros que son o continen exclusivamente, por ejemplo, una fotografía, una base de datos, un programa de ordenador, etc.
 
 La **tercera opción** del filtro selecciona los documentos en función del nombre del fichero. Permite el uso de wildcards (* y ?) para consultas algo más complejas. Por ejemplo:
 
@@ -316,8 +316,7 @@ rellenar el usuario.
 
 ![Formulario de tramitación de derechos de un documento.](./formulario.png)
 
-Se debe escoger una opción de las que aparecen a la derecha de la etiqueta "El
-documento contiene". Con ellas se resuelven varias cuestiones:
+Se debe escoger una opción de las que aparecen. Con ellas se resuelven varias cuestiones:
 
 - ¿Se **necesita autorización** expresa del titular de los derechos, si lo hay?
 - ¿Se **genera una obligación económica** para la universidad?
@@ -325,9 +324,11 @@ documento contiene". Con ellas se resuelven varias cuestiones:
 
 Estudiemos detenidamente cada una de las opciones:
 
-#### Opción 1: "No es una obra impresa o susceptible de serlo (fotografías, código de ordenador, base de datos, ...)"
+#### Opción 1: "No es una obra textual protegida ni contiene fragmentos de obras textuales protegidas"
 
 El sistema ha supuesto incorrectamente que el fichero contiene una obra o un fragmento de un obra impresa o susceptible de serlo. Seleccionando esta opción el documento se clasifica como de otra naturaleza.
+
+El fichero es o contiene exclusivamente, por ejemplo, una fotografía, una base de datos, un programa de ordenador, etc. Son obras textuales protegidas (y por lo tanto clasificables en las otras opciones del formulario) libros, revistas, periódicos y partituras musicales.
 
 #### Opción 2: "Disposiciones legales e información administrativa (leyes, resoluciones, normativa interna de la universidad, listados de notas...)"
 
@@ -339,15 +340,19 @@ gestión de derechos de propiedad intelectual. El contenido del documento no
 puede ser consultado por las entidades de gestión como parte de un proceso de
 auditoría, pues puede contener información de carácter personal.
 
+Esta opcion también es aplicable a los ficheros que contienen exclusivamente el 
+texto o parte del texto de disposiciones legales o reglamentarias o de sus 
+correspondientes proyectos o de resoluciones de órganos jurisdiccionales (artículo 13 de la LPI)
+
 Si se escoge esta opción, no es necesario proporcionar datos descriptivos del
 documento. Pulse el botón "Enviar" para procesar el documento.
 
-#### Opción 3: "Obra cuya autoría es de profesorado de la universidad y no ha cedido los derechos de explotación a un tercero"
+#### Opción 3: "Es una obra cuya autoría es de profesorado de este curso"
 
-Cuando el autor o autores son parte del profesorado de la universidad, han
-realizado la obra como parte de su trabajo y no han cedido los derechos de
-explotación a un tercero, el documento puede publicarse en el Aula Virtual y no
-se generan obligaciones económicas para la universidad.
+Cuando el autor o autores son parte del profesorado del curso en el que se da
+la asignatura, han realizado la obra como parte de su trabajo y no han cedido 
+los derechos de explotación a un tercero, el documento puede publicarse en el
+Aula Virtual y no se generan obligaciones económicas para la universidad.
 
 Este es el caso habitual de los boletines de problemas, exámenes de asignatura,
 apuntes de clase, etcétera.
@@ -358,8 +363,7 @@ como parte de un proceso de auditoría.
 Si se escoge esta opción, no es necesario proporcionar datos relativos al
 documento. Pulse el botón "Enviar" para procesar el documento.
 
-
-#### Opción 4: "Una obra editada por el servicio de publicaciones de la universidad"
+#### Opción 4: "Es una obra editada por el servicio de publicaciones de esta universidad"
 
 Si la obra ha sido publicada por la universidad y es cesionaria de los derechos
 de explotación, no se requiere autorización para la publicación en el Aula
@@ -374,7 +378,7 @@ documento. Pulse el botón "Enviar" para procesar el documento.
 
 El contenido del documento puede ser consultado por las entidades de gestión como parte de un proceso de auditoría.
 
-#### Opción 5: "Una obra de dominio público"
+#### Opción 5: "Es una obra de dominio público"
 
 Las obras de dominio público se pueden publicar sin autorización y su uso no
 genera obligaciones económicas.
@@ -384,7 +388,20 @@ documento. Pulse el botón "Enviar" para procesar el documento.
 
 El contenido del documento puede ser consultado por las entidades de gestión como parte de un proceso de auditoría.
 
-#### Opción 6: "Un fragmento de una obra (capítulo de libro, artículo o extensión no superior al 10%)"
+#### Opción 6: "Es una obra de la que dispongo de autorización escrita o licencia en vigor"
+
+Al escoger esta opción se despliega un formulario similar al de la opción anterior. El formulario incluye dos campos adicionales:
+
+- **Fecha de fin de licencia**: Indicar la fecha de expiración de la licencia. Permite que, si procede, el uso del mismo documento en ediciones posteriores del curso no fuerce a una nueva tramitación de la gestión de derechos. A la derecha aparece una casilla para marcar si la licencia es perpetua.
+- **Licencia**: Descripción de la licencia.
+
+Las obras con licencias que no generan obligaciones económicas para usos no
+comerciales caben en esta opción. Es el caso de Creative Commons y otras
+licencias permisivas.
+
+El contenido del documento y los datos pueden ser consultados por las entidades de gestión como parte de un proceso de auditoría.
+
+#### Opción 7: "Es un fragmento o contiene fragmentos de una obra (imágenes sueltas, un capítulo, un artículo) para la que no tengo autorización o licencia"
 
 Si el fragmento tiene una entidad relativa (es un capítulo de libro, un
 artículo de revista o no excede el 10% del total de la obra), esta opción abre
@@ -406,21 +423,7 @@ económica que genera su uso ha sido satisfecha en el marco del convenio
 celebrado entre CRUE y CEDRO-VEGAP. El contenido y datos del documento pueden ser
 consultados por las entidades de gestión como parte de un proceso de auditoría.
 
-#### Opción 7: "Una obra de la que dispongo de licencia en vigor"
-
-Al escoger esta opción se despliega un formulario similar al de la opción anterior. El formulario incluye dos campos adicionales:
-
-- **Fecha de fin de licencia**: Indicar la fecha de expiración de la licencia. Permite que, si procede, el uso del mismo documento en ediciones posteriores del curso no fuerce a una nueva tramitación de la gestión de derechos. A la derecha aparece una casilla para marcar si la licencia es perpetua.
-- **Licencia**: Descripción de la licencia.
-
-Las obras con licencias que no generan obligaciones económicas para usos no
-comerciales caben en esta opción. Es el caso de Creative Commons y otras
-licencias permisivas.
-
-El contenido del documento y los datos pueden ser consultados por las entidades de gestión como parte de un proceso de auditoría.
-
-
-#### Opción 8: "No tengo licencia en vigor (tramitación de licencia con coste económico)    "
+#### Opción 8: "Es una obra completa para la que no tengo autorización o licencia (tramitación de licencia con coste económico)"
 
 Esta opción se debe escoger si el documento no cuenta con autorización para su
 publicación y se dispone de crédito presupuestario para adquirir una licencia.
@@ -438,6 +441,15 @@ impresa o libros electónicos a través de la Biblioteca antes de tramitar la
 licencia para el Aula Virtual.
 
 # Cambios entre versiones del módulo
+
+## Cambios respecto de la versión 0.2
+
+- Cambiamos la redacción de las opciones del formulario de tramitación.
+- Permitimos redimensionar las areas de previsualización y formulario de tramitación.
+- El campo Observaciones del formulario de tramitación permite introducir más información.
+- Añadida funcionalidad de copia de seguridad y restauración de los metadatos del fichero.
+- Añadimos nuevos contextos para explorar la existencia de ficheros como las secciones de los cursos.
+- Excluídos los ficheros de la zona de backup de los módulos.
 
 ## Cambios respecto de la versión 0.1
 
